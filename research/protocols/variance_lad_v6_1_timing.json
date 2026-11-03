@@ -1,0 +1,81 @@
+{
+  "version": "SP500-final-bounded-v6.1",
+  "registered_at": "2026-10-28T15:12:01.606648+00:00",
+  "authorization": "Genuine implementation/timing correction within authorised finalisation; not a new research mechanism or fresh validation.",
+  "exposure": "All 2017-Oct2026 outcomes already observed in earlier research. This new mechanism round is exploratory retrospective, not fresh holdout validation. Candidate formulas below frozen before first fit.",
+  "data": "Existing511 Friday rows only, 2017-2026. No new history for model comparison. Drop unavailable features on identical matched scoring origins; no filling.",
+  "controls": [
+    "unchanged",
+    "variance_ridge",
+    "term_ridge",
+    "weighted_median_constant (noneligible diagnostic)"
+  ],
+  "new_candidates": [
+    {
+      "id": "variance_lad",
+      "features": [
+        "variance_gap"
+      ],
+      "fit": "gross return A/B against standardised gap; weighted absolute loss with normalised weights proportional B/A; intercept unpenalised, L1 slope penalty .001. scipy highs linear program; final gross forecast 1+.5*(fitted gross-1). APE-oriented before shrinkage, not exact capped-score optimiser."
+    },
+    {
+      "id": "variance_term_ridge",
+      "features": [
+        "variance_gap",
+        "term_slope"
+      ],
+      "fit": "log return, n-scaled ridge alpha1 unpenalised intercept; .5 logreturn shrinkage"
+    },
+    {
+      "id": "variance_recency",
+      "features": [
+        "variance_gap"
+      ],
+      "fit": "logreturn ridge,104calendarweek exponential half-life; weighted scaler/intercept; penalty=sumweights*1; .5logreturn shrinkage"
+    },
+    {
+      "id": "variance_term_ensemble",
+      "features": [
+        "variance_gap",
+        "term_slope"
+      ],
+      "fit": "fixed equal geometric average of existing variance and term forecasts (both alpha1 .5shrink), no fitted blend weight"
+    }
+  ],
+  "training": "Expanding earlier origins, target label available<=boundary, min140rows and3calendar years; source lags inherited unchanged fromv5. No future labels/scalers. Warmup2020-21 distinct from2022-25 and2026.",
+  "diagnostic_control": "weighted median of grossreturns, normalised inversegross weights, .5 simple-return shrinkage; constant nonfactor control only. Not promoted as a factor model.",
+  "periods": [
+    "2020-2021 development",
+    "2022-2025 all S&P common origins",
+    "2024-2025",
+    "2026 all42",
+    "2026last26",
+    "2026last13",
+    "eachcalendar year"
+  ],
+  "evaluation": "Exact coursework max(0,50-500*abs(F-A)/A), mean/medianAPE,p90,>1/2/5%; paired sameorigin comparisons vsunchanged andvariance. Apparent fit and prequential same-row optimism; frozen2021 and frozen2025, oneextraoptionpublicationday lag and trailing156week refit diagnostics never selectable.",
+  "uncertainty": "paired circular blocks4/8/13,5000replications seed7007286. max-t among all six factor candidates diagnostic only, not correction for all prior adaptive research. Report every block, lowerbound versusunchanged andvariance.",
+  "selection": "Primary2022-25 mean, onepairedSE tie (8weekblock), then lowerp90, fewerfactors. Repeat2026 as stabilitydiagnostic. No newpromotiongate relaxation.",
+  "promotion_gate": {
+    "old_mean_gain_min": 0.25,
+    "recent_mean_gain_min": 0.25,
+    "adjusted_p_max_all_blocks": 0.1,
+    "positive_old_years_min": 3,
+    "old_years_count": 4,
+    "p90_increase_max_pp": 0.25,
+    "positive_recent_last13_and26": true
+  },
+  "decision": "If none passes, state no validated superiority. Select conditional factor coursework proposal separately using balanced rule among factor candidates and older+recent stability, not a guaranteedbest model. Human group signoff never inferred.",
+  "events": "Official dates and release expectations support interpretation/adverse scenarios; no futureactual, unlicensedconsensus, subjective adjustment, or new numeric factor without separate protocol.",
+  "scope": "No productionCSI model/sourcepolicy edits, no protectedcrypto, no account access, no external messaging/submission.",
+  "input_hashes": {
+    "sp500_recent_review_2026-10-27/results/feature_table.csv": "f9ba4c301e8ea334e7ca8dcc17f5edda1cd1e2351320c44c0e3993d0423e5011",
+    "sp500_recent_review_2026-10-27/results/combined_cash.csv": "ef9d4d8f25619357fc81076f049dda39eba4acfe5778ed805def60f37cf7068b",
+    "sp500_recent_review_2026-10-27/results/predictions.csv": "b4c48d57347c282c74fe6490f672d7c780d099855db0838c0ec94a813dfef213",
+    "research_v3/runs/20261027T001819470847Z/all_prequential_predictions.csv": "f4d154582fb3696bd4abb875ea3a2d71940e45a3279d9bba92fa972bc6c077d8"
+  },
+  "correction": "Make source selection deterministic: latest assumed availability, then latest observation timestamp. Same dates, lags, models, losses, penalties, shrinkages, gates. No tuning.",
+  "old_protocol_sha256": "b37fae62f1c4e1295f42de7249aed0002b731ea04cbc590ac8a9baf53ef0a638",
+  "code_sha256": "4fbefef15442e90db040b8999de9088e207e8aca8c6358f2c1ed4b478c30e6b2",
+  "expected_effect": "Independently audited base has no changed input values/timestamps; prove equality. Rerun only lag diagnostic whose holiday ties differ. Preserve v6.0 outputs and actual Wednesday issues unchanged."
+}

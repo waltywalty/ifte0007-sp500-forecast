@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "scope": "Code-first metadata register. Raw observations and original receipts are not distributed in this release.",
+  "timestamp_policy": "Observation, assumed availability and actual retrieval are separate. Missing receipt timestamps remain null, never inferred from file modification dates.",
+  "sources": [
+    {
+      "instrument": "S&P 500 USD price index",
+      "series": "SP500",
+      "units": "index points",
+      "authority": "S&P Dow Jones Indices",
+      "distributor": "Federal Reserve Bank of St. Louis FRED",
+      "source_url": "https://fred.stlouisfed.org/series/SP500",
+      "observation_time": "Exact XNYS cash-session close; per-observation timestamps required in a supplied snapshot",
+      "availability_rule": "Conservative historical assumption: session close plus 12 hours; actual receipt additionally required for a live issue",
+      "retrieved_at": null,
+      "retrieval_status": "Not supplied in this code-first register; use the original bound receipt when permitted",
+      "permitted_use": "Existing local public-source research; redistribution and empirical GitHub/ZIP inclusion not established here",
+      "snapshot_hash_location": "research/protocols/friday_operations.json:immutable_inputs",
+      "included_observations": false,
+      "historical_snapshots": [
+        {
+          "original_workspace_relative_path": "research_v2/data/SP500.csv",
+          "sha256": "91c8d1d7ebd183767accf8d8815f354881b489fc98de959e3f96f596372b1e5c",
+          "included": false
+        },
+        {
+          "original_workspace_relative_path": "sp500_recent_review_2026-10-27/data/SP500.csv",
+          "sha256": "8cd247669cb9230ce287574918552f67f38773c2e9097f68281b2cce066bb39f",
+          "included": false
+        }
+      ]
+    },
+    {
+      "instrument": "Cboe Volatility Index",
+      "series": "VIXCLS",
+      "units": "annualised volatility percentage points",
+      "authority": "Cboe",
+      "distributor": "Federal Reserve Bank of St. Louis FRED",
+      "source_url": "https://fred.stlouisfed.org/series/VIXCLS",
+      "observation_time": "16:15 America/New_York under the frozen observation convention",
+      "availability_rule": "Next US federal business day 16:15 New York plus 12 hours; latest common observed date breaks equal-availability ties",
+      "retrieved_at": null,
+      "retrieval_status": "Original receipt required; not inferred from a date label or local file timestamp",
+      "permitted_use": "Local research; destination-specific redistribution review pending",
+      "snapshot_hash_location": "research/protocols/friday_operations.json:immutable_inputs",
+      "included_observations": false,
+      "historical_snapshots": [
+        {
+          "original_workspace_relative_path": "research_v3/data/VIXCLS.csv",
+          "sha256": "d1f57aa9634573893def5ec63d70fcf6e5876a3da51d1b3590f6538a7ccce367",
+          "included": false
+        },
+        {
+          "original_workspace_relative_path": "sp500_recent_review_2026-10-27/data/VIXCLS.csv",
+          "sha256": "c428522cecec9cfa6d3c8289289023156d78afe16bacfc46e3c466f7ef8e188f",
+          "included": false
+        }
+      ]
+    },
+    {
+      "instrument": "Cboe S&P 500 3-Month Volatility Index",
+      "series": "VXVCLS",
+      "units": "annualised volatility percentage points",
+      "authority": "Cboe",
+      "distributor": "Federal Reserve Bank of St. Louis FRED",
+      "source_url": "https://fred.stlouisfed.org/series/VXVCLS",
+      "observation_time": "Same frozen option-observation convention as VIXCLS",
+      "availability_rule": "Same frozen conservative lag; common-date eligibility guard, not an additional fitted predictor",
+      "retrieved_at": null,
+      "retrieval_status": "Original receipt required before an empirical issue can be independently replayed",
+      "permitted_use": "Local research; destination-specific redistribution review pending",
+      "snapshot_hash_location": "research/protocols/friday_operations.json:immutable_inputs",
+      "included_observations": false,
+      "historical_snapshots": [
+        {
+          "original_workspace_relative_path": "research_v3/data/VXVCLS.csv",
+          "sha256": "b303b4736504a25a0baf834aa9716a5baf55bbfb36b37743d19ccad00757affe",
+          "included": false
+        },
+        {
+          "original_workspace_relative_path": "sp500_recent_review_2026-10-27/data/VXVCLS.csv",
+          "sha256": "c171704daa6d432753bbc5b22818ad7597587a47d68ff8a60b340c79935f4834",
+          "included": false
+        }
+      ]
+    }
+  ],
+  "synthetic_inputs": {
+    "path": "tests/fixtures/synthetic/feature_table.csv",
+    "status": "Entirely invented; not a source for financial accuracy claims",
+    "hash_bound_by": "tests/fixtures/synthetic/snapshot.json"
+  }
+}

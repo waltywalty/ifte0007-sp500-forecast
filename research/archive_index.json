@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "scope": "Metadata and selected authored protocols; not raw source histories, financial rows or all earlier research runners",
+  "originals_preserved": true,
+  "no_protected_or_private_data_inspected": true,
+  "qualification": "Hashes establish byte identity, not sharing permission or predictive superiority. Pending artifacts remain outside GitHub and ZIP allowlists.",
+  "artifacts": [
+    {
+      "original_workspace_relative_path": "research_v2/protocol.json",
+      "sha256": "1439dcf54e412bf8f4e16cadac5ebafe233c666a7f345122b84b426f733857c6",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "research_v3/protocol.json",
+      "sha256": "fafabded87d497cfca8cd90f20dca77371179d3a31568204df18e74323d2cfcb",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "research_v4/protocol.json",
+      "sha256": "1a63d7b8b6cc2c688ccc15e153ff3822b27ca674f5940f502becaff3d10a006f",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "sp500_recent_review_2026-10-27/protocol.json",
+      "sha256": "e2af5fb974a4e228ba97abb191101bc902ad8da35527761816bff159d44d5095",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/research/protocol.json",
+      "sha256": "b37fae62f1c4e1295f42de7249aed0002b731ea04cbc590ac8a9baf53ef0a638",
+      "included": true,
+      "treatment": "Authored protocol copied byte-exact",
+      "repository_path": "research/protocols/variance_lad_v6_original.json"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/research/correction_v6_1/protocol.json",
+      "sha256": "d20831766a794b6deab4dc79dcd7520cfd80f91ad313076b4693893a5c1a0997",
+      "included": true,
+      "treatment": "Authored protocol copied byte-exact",
+      "repository_path": "research/protocols/variance_lad_v6_1_timing.json"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/research/run.py",
+      "sha256": "17c4a81c990c90dcaf07d0e19c3db03964a81398d51a72730d60f6dd56e44e8c",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/research/correction_v6_1/feature_table.csv",
+      "sha256": "60dfc71525ebb74b7d9e2f1ec9c7d13f2ac3d13abef0a8df2ba23dac33415d19",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/research/results/predictions.csv",
+      "sha256": "452275c91e7d157cb337dede0ae48d4c0d0f3a8cd6abacffd65f37e9130165c7",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/operations/friday.py",
+      "sha256": "6ff76d3b2582bece93c25be515c32cf32bdaeb1cb5ce39b77b5d878679d372aa",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/operations/friday_protocol.json",
+      "sha256": "b756b51246ab4b29ccb689c90d8d492249d769905cfe0f2ace56821197dab7fe",
+      "included": true,
+      "treatment": "Authored protocol copied byte-exact",
+      "repository_path": "research/protocols/friday_operations.json"
+    },
+    {
+      "original_workspace_relative_path": "final_strategy_2026-10-28/operations/issued/2026-10-28-Wednesday-rehearsals.json",
+      "sha256": "e7fed43183a54a2c26c10994d7857e159636c284a72afe039ef63192b431696b",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    },
+    {
+      "original_workspace_relative_path": "state/sp500_method.json",
+      "sha256": "7747ffd1eed40204b5432613faf24039b7d9590ca564ae3d6c94df8f5eb62033",
+      "included": false,
+      "treatment": "Lineage metadata only; original retained locally, not distributed"
+    }
+  ]
+}

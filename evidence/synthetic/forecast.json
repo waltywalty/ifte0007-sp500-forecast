@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "kind": "synthetic",
+  "method": "variance_lad",
+  "origin": "2026-11-13T11:45:00+00:00",
+  "target_at": "2026-11-20T21:00:00+00:00",
+  "baseline_at": "2026-11-12T21:00:00+00:00",
+  "baseline_available_at": "2026-11-13T09:00:00+00:00",
+  "variance_gap_observed_at": "2026-11-11T21:15:00+00:00",
+  "variance_gap_available_at": "2026-11-13T09:15:00+00:00",
+  "term_slope_observed_at": "2026-11-11T21:15:00+00:00",
+  "term_slope_available_at": "2026-11-13T09:15:00+00:00",
+  "baseline": 100.0,
+  "vix": 20.0,
+  "vix3m": 22.0,
+  "rv20": 0.02,
+  "variance_gap": 0.02,
+  "term_slope": 0.09531017980432493,
+  "model_fit": {
+    "kind": "lad",
+    "features": [
+      "variance_gap"
+    ],
+    "mean": [
+      0.01
+    ],
+    "scale": [
+      0.02
+    ],
+    "intercept": 1.01,
+    "coefficients": [
+      -0.002
+    ],
+    "shrinkage": 0.5,
+    "solver_success": true
+  },
+  "forecast": 100.45,
+  "displayed_forecast": "100.45",
+  "n_train": 160,
+  "train_start": "2017-02-03T12:00:00+00:00",
+  "train_end": "2026-10-30T12:00:00+00:00",
+  "max_training_label": "2026-11-07T09:00:00+00:00",
+  "nonbinding": true,
+  "qualification": "All numerical inputs are invented; no empirical fit, source acquisition or forecast issuance is claimed."
+}

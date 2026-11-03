@@ -1,0 +1,1377 @@
+{
+  "schema_version": 1,
+  "policy": "docs/copyright_and_attribution.md",
+  "scope": "Current authored code, synthetic examples and metadata only; approvals are scoped use decisions, not legal certification or human group sign-off.",
+  "metadata_self_reference": "This register and its destination manifest are control metadata; packaging binds committed register bytes and exports only selected known fields.",
+  "artifacts": [
+    {
+      "path": ".github/ISSUE_TEMPLATE/task.md",
+      "sha256": "7365a82dbd39f8a4f2e2dd352f165570bd6f7343432c8273c308d99d4a2f17d2",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "sha256": "549b49066d8a8e1cb2399bfd60fd342f217bce6acbde58f55bd7972996edcc5c",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "sha256": "2952ed81713a4d8f41cb50bba623fff5f0938d19547a94e16159f555af88449f",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "b3e82bc9bca860155532497ec3e8933b19851a7d779e2a637ff885396ff6d6a8",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "fcfdcae614edf04f23ac2552e6cc47278a80172df43cd16a945b0ff4326a1bfd",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "sha256": "c1e4ddbe93f0e4a08d8f452999eed01102ddd54d1d03279d772dc19cbaa6e7a6",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "README.md",
+      "sha256": "7e8eb04f0acb5e3128a24c9eac24ee0c08b9251ba03c525ca4516254fbfcfa3e",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "bd4e689bf36d47d842da231293c0a6789456f8a89fe9521bc6fad3ceef3018d2",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [],
+      "citations": []
+    },
+    {
+      "path": "docs/ai_use.md",
+      "sha256": "124b09942ab5c1f99a0f4ce1606193ba58c87c03cfef07e4688996151ef49608",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/assessment_map.md",
+      "sha256": "65f5815b0293998c132f9876b010ef08064b6f991bb125e29ede1ee0c993e2db",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/contributions.md",
+      "sha256": "11d289242430d6ebaddff91c12aa8e89cd41eda6c5082688042ef784cb3e1eb1",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/copyright_and_attribution.md",
+      "sha256": "4e5c9fbe4396c8d21a7b6bd97bcad487365fc40ca541d320505f6ded590e1d49",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/data_and_permissions.md",
+      "sha256": "3999a363f88d6bb61cbeaad6db9c0593e42030c423f514fe87ae186b83ab2c5d",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/input_contracts.md",
+      "sha256": "a8f9bde9bf2be3ef0db7ee4c5bf9e8598374f96e0549eb8c30826c57fd360703",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/method_card.md",
+      "sha256": "addadef57528001e4976079a7d182ecc89e1de48b6acf7138e4a6010755ab094",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/operations.md",
+      "sha256": "5ec60240052fb84bfb96f7ff83ece1f7fa9336501e3333075ef174c62150a981",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/references.bib",
+      "sha256": "e556c855f9725c7942f74677cbf2c52ea0cd573fbd1bb5703006002291f62677",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/research_history.md",
+      "sha256": "41a10eadc4a1377b181a93e96a50f57dec9ab466b04e1e0ce6b105437515465f",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/skill_log.md",
+      "sha256": "60c56c56845012b60e73afe02f5e06e2b13b84544970e16408c7de58b317782a",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "docs/validation.md",
+      "sha256": "3ff3f66fd35cdedd024d9ad4b78df0444191d4432fcc89923b36adc6e113f3b3",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [
+        "docs/references.bib"
+      ]
+    },
+    {
+      "path": "evidence/ai_traces/2026-11-03_implementation.json",
+      "sha256": "f5448a30fa84c052bd23df70dba0d29e8ccb6f95afdd9c9aafe0c47cc674bc63",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/ai_traces/README.md",
+      "sha256": "cf004fd5e8794a3e942f17cc43878e1e8e0317a27352ea3c28fe88b817693624",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/forecasts/README.md",
+      "sha256": "b4d67e1178a0492637eb94c76da92acc549e91099ead1c05e90354f50ae70c14",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/manifests/data_register.json",
+      "sha256": "23fdd612c569dc6969b0411c821d88beffc2448ca8d548dd0fefd9b56c1afe60",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/outcomes/README.md",
+      "sha256": "b1a14bd59190273294532ab9ba2d2462aa78f1481a038c0ad8c7e500a8af9e1a",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/synthetic/forecast.json",
+      "sha256": "7f1fbd38468f2710e206b95b3fbbb83f729cfc80e13e1246f7560af0d82115f4",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/verification/README.md",
+      "sha256": "fe5bd2bb93dc54ba5a9469d68f335a4ce50ace36ffe81e8573f5ba5ae43b81c1",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/verification/implementation_review.json",
+      "sha256": "f4f54f55cb00a3e603d84ff00cb5a4e1eb199b7f7ddf730b2c04effbc1455347",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "notebooks/forecasting_walkthrough.ipynb",
+      "sha256": "173f78caaea63793136edbbe71a35b8d7eabf6ab4cdc112adacf71348ddd1a84",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "pyproject.toml",
+      "sha256": "be5a1713316791f6872cc2c3eae0863305c1ea22d6cba90b885012a8bd1266f1",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "requirements.lock",
+      "sha256": "8523f957ec544667db93576c72f70acebc0d0a870866cafb54437ba05b04d481",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Generated exact package pins and official PyPI distribution hashes; dependency software is not vendored.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/archive_index.json",
+      "sha256": "3f87c3b020499e19364e103dd82e5a4677ed7c3064f99e3511bbba362128971a",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/protocols/README.md",
+      "sha256": "758076e11cce8f7d3028b1484f8c6383775166dd2cc0ca252ddd4fbb485804de",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/protocols/friday_operations.json",
+      "sha256": "b756b51246ab4b29ccb689c90d8d492249d769905cfe0f2ace56821197dab7fe",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Byte-exact authored project protocol, imported from original local research; no external publication text or price rows.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/protocols/variance_lad_v6_1_timing.json",
+      "sha256": "d20831766a794b6deab4dc79dcd7520cfd80f91ad313076b4693893a5c1a0997",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Byte-exact authored project protocol, imported from original local research; no external publication text or price rows.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/protocols/variance_lad_v6_original.json",
+      "sha256": "b37fae62f1c4e1295f42de7249aed0002b731ea04cbc590ac8a9baf53ef0a638",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Byte-exact authored project protocol, imported from original local research; no external publication text or price rows.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/runners/README.md",
+      "sha256": "e2832fd05ec13d944d14810e1fabaf4e87ad35d5bc4b0accde56c2ddc9ed2392",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/runners/plot_results.py",
+      "sha256": "504a0122346be1d4944bc6705719d4f5aa58704a2c23f04d874ed55c42b38329",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "research/runners/verify_parity.py",
+      "sha256": "a9be4ecfb0d41026d922abd666af04e78a9300b5da0bce46b59c9d06b0e3e69c",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/__init__.py",
+      "sha256": "b32348b5a8aeb116f9dcad73427300dcb53f18199cd7997cca32116d75da8a5a",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/__main__.py",
+      "sha256": "eba0d46a7ec5ad0a27fd4460f26820b6bf83555d54d378fecb977db2fe6d075d",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/cli.py",
+      "sha256": "83f0f790fe05cd663236c6d104716b3ad051170adb8c9c814330f5fcb17cf05c",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/data_validation.py",
+      "sha256": "2c2017c61d009e8fd089239b81f3974494d67fb029e9754e636e950ddf877d79",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/evaluation.py",
+      "sha256": "b05e25230056b96bb8b336e44dab9cdd86dda58bc60b948b78a3cdf195885e69",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/evidence.py",
+      "sha256": "9dcc03bb28649ba906a283f9b96d2537c2d2fad1ddf9e798d8ce2a832338962d",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/features.py",
+      "sha256": "e74973fe574b97c8d73404f099521bb19be1032beee79c8b61a2dafa4a6d9dc2",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/model.py",
+      "sha256": "b57e3502221f1d6ecf803d1144ea162cc0420868ea4b25721bf572e39f97e403",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/records.py",
+      "sha256": "b53f4b21273568fb2792ab5cc60c84d2a9b0101ac000a9bac0e9dfbbb27011fa",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/scoring.py",
+      "sha256": "78f63b3e6fbc42ff7d9e2b50256034a6adedc70ded82fbdc31ebe34ca3ee66f9",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "src/ifte0007/timing.py",
+      "sha256": "eb24883d007f20e2a70ba36ac21c382829a028c9ec44256ed55bda8f4ab4d7a3",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "submission/README.md",
+      "sha256": "2138e5964b12bc07d955f57abf5f906c47bf609062e476b89b15071376f3b8ac",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/conftest.py",
+      "sha256": "79cd2011ffdca552b1a7ce1dc695e651ac498dc33bb33b6f58ed1e9ed239cac6",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/fixtures/synthetic/feature_table.csv",
+      "sha256": "8844fb538ddf2160ee0c2b2f5dc70c911ce9fd9f5c415b6143bdde347aab0097",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/fixtures/synthetic/snapshot.json",
+      "sha256": "0d5e09245587224f3afb0a4d2d58670663ae7ae0765dcee329ee0b46cf681af7",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_evaluation.py",
+      "sha256": "b75804267430d192a7f084e1783911f3b11e9926abdec111f9b4a62e8bd6355c",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_evidence.py",
+      "sha256": "16847a230f7e6c33cb0906e43f2774cf7dd624262930dc5be155a9d5bac6b64c",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_features.py",
+      "sha256": "9371f3adc2d9d3e1d64bf952c9cfd4f67df79a9a4abc8cbd49f0235bbdd08577",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_model.py",
+      "sha256": "1ee3a62368b7393ff9b7ab16bb40e6bf1573a2a01f7525528c9b586d80a41090",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_records.py",
+      "sha256": "6a391fbf7406b0ef932e246afe7bde43e05090b112a08c691869588324d0521d",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_reproduction.py",
+      "sha256": "a2772cb9ed987a325e2ca1af74aac96574f14b6de537ef5ab027da9d7769d75d",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_scoring.py",
+      "sha256": "9646c92cd66f22b4ca86c43ecec3e212d426ad301da5cd60f5f8dd7f14d7df09",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tests/test_timing.py",
+      "sha256": "991a28b25dff5733b7d3c67334225dd71d5703d3aff37c3987f2454f3c2128de",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tools/build_manifest.py",
+      "sha256": "67abba948dcd74214de27d879694eeb1ea75e78eb35d6a1e06e6d4207320cdeb",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tools/build_notebook.py",
+      "sha256": "836b2542fa15d3969947e249046650c21e363b5a88599f4cdf6b15bd4bdc93da",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tools/check_notebook.py",
+      "sha256": "975d74521940a163c9cc5d3f6e900f7f2671bbccddf5d91c13a7c2c7856982a3",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tools/check_repository.py",
+      "sha256": "573aad964f2fe6fb59e7109e24789595ee7cb2b562bfd3350e821d5bc56a7ca0",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "tools/lock_dependencies.py",
+      "sha256": "75ae6ff4ae41b1985094351e6a71ff7fb1923f9986bb2716e023d2e54988c4e4",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
+      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
+    },
+    {
+      "path": "evidence/empirical/feature_table.csv",
+      "sha256": "60dfc71525ebb74b7d9e2f1ec9c7d13f2ac3d13abef0a8df2ba23dac33415d19",
+      "status": "pending",
+      "destinations": [],
+      "origin": "Saved public-source financial feature table retained only in original workspace; not copied here.",
+      "licence_basis": "Destination-specific empirical redistribution basis unconfirmed. Research access does not establish GitHub or ZIP permission.",
+      "reviewer": "Codex boundary review; no permission inferred",
+      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "required_notices": []
+    }
+  ]
+}
