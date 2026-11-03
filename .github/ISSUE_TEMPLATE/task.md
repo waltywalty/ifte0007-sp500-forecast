@@ -14,6 +14,8 @@ assignees: ''
 
 ## Data/copyright boundary
 
-## Actual owner and independent reviewer
+## Repository owner and review
 
-Leave unassigned until real group members are identified. Do not infer sign-offs.
+Current repository coordination and review: `waltywalty`. Do not assign or invite
+group members while their GitHub participation is deferred. Record actual review;
+do not infer any coursework sign-off from issue or repository activity.

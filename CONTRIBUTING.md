@@ -1,6 +1,6 @@
 # Contributing
 
-Use reviewed PRs rather than direct changes to `main`. Preserve the group's existing allocation; [contributions](docs/contributions.md) awaits its actual names/handles.
+Use reviewed PRs rather than direct changes to `main`. For now the repository workflow is managed through `waltywalty` only; group-member GitHub connections and personal edits are deferred. Preserve the group's existing coursework allocation and genuine [contribution records](docs/contributions.md), which do not require GitHub participation.
 
 1. Read [AGENTS](AGENTS.md), inspect current work and create `codex/<purpose>`.
 2. Make a coherent change; preserve original inputs and outputs.
@@ -8,9 +8,9 @@ Use reviewed PRs rather than direct changes to `main`. Preserve the group's exis
 4. Run relevant tests and fresh reproductions.
 5. Inspect the complete proposed export for restricted/private material.
 6. Open a PR explaining the concrete change, actual validation, evidence implications and limits.
-7. Obtain a genuine non-author member review. New material changes need renewed review.
+7. Obtain the repository owner's review and explicit authorisation before merging. New material changes need renewed review; AI checks do not count as the owner's approval.
 
-Use branch protection where supported; do not describe a manual convention as technical enforcement. Add ownership rules/invitations only with valid supplied handles.
+Use branch protection where supported; do not describe a manual convention as technical enforcement. Do not add group invitations, access, personal edits or `CODEOWNERS` assignments until the user explicitly resumes group GitHub collaboration. Group handles are not a prerequisite now.
 
 ## Rights checklist
 
@@ -33,4 +33,4 @@ Keep null/negative findings and uncertainty. No retuning from recent misses, fak
 
 ## Observed GitHub enforcement status — 3 November 2026
 
-The private repository UI states that branch-protection rules would not currently be enforced under this account configuration. No upgrade, account move, visibility change or security weakening was performed. Follow the documented manual non-author review and passing-check convention; do not describe it as enforced protection. Actual group handles and a genuine reviewer are still required.
+The private repository UI states that branch-protection rules would not currently be enforced under this account configuration. No upgrade, account move, visibility change or security weakening was performed. Follow the current manual owner-review and passing-check convention; do not describe it as enforced protection. Historical records may refer to the earlier planned group-review workflow; that GitHub participation is now deferred. Genuine final-day coursework checks remain required separately.

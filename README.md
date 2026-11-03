@@ -68,7 +68,7 @@ The [parity runner](research/runners/verify_parity.py) compares explicitly suppl
 
 ## Maintenance and submission
 
-Use `codex/*` branches and PRs with genuine non-author group review; see [CONTRIBUTING](CONTRIBUTING.md). The already-agreed four-person split and actual handles must be entered by the group, not invented.
+For now, GitHub work is managed through the owner's account, `waltywalty`. Use `codex/*` branches and PRs for the owner's review; see [CONTRIBUTING](CONTRIBUTING.md). Group-member invitations, access, GitHub edits and ownership assignments are deferred until a later explicit instruction. Group handles are not required for this stage. The agreed four-person coursework allocation and genuine contribution records remain separate.
 
 GitHub supplements the brief's report/slides/evidence-ZIP submission. No command submits coursework, trades or makes a forecast binding. Final identity is the commit, manifest and ZIP hash. Post-cutoff work stays separate.
 

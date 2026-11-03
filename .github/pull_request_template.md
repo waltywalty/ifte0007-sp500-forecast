@@ -19,8 +19,9 @@ Explain the concrete problem and resulting behaviour.
 
 ## Human review
 
-Name the real group reviewer when available. Do not merge until a genuine non-author
-review and required checks pass. AI review is supplementary, not a human approval.
+Owner review by `waltywalty` is required before merging. Group-member GitHub
+connections and personal edits are currently deferred. Do not infer approval from
+AI review or passing checks; leave the PR unmerged until the owner authorises it.
 
 ## Limitations or follow-up
 

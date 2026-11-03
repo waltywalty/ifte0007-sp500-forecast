@@ -19,3 +19,7 @@ No new non-duplicative skill was needed. Skill permission does not expand accoun
 ## Documentation integration — 3 November 2026
 
 Reused the reviewed find-skills/docs-governance workflow; inspected the new offline notebook checker/generator, parity runner, chart runner, package metadata and evidence/core interfaces. No non-duplicative additional skill was needed. Integration added hash-locked editable-install guidance, tested-platform limits, executable helper commands and clear separation between numerical parity and predictive/source/rights validation. The agent did not access the empirical parity inputs or private data for these documentation updates.
+
+## Owner-account workflow update — 3 November 2026
+
+Reused find-skills, GitHub operations and documentation governance after inspecting the active instructions, PR template and contribution guide. Existing skills were sufficient; no installation was needed. The user's later instruction defers group-member GitHub connections and edits, so current repository review is assigned to the owner. Historical evidence, genuine coursework contributions and final-day human checks remain separate. No collaborator, access or model change is part of this update.

@@ -23,7 +23,9 @@ Before each substantive stage, follow find-skills: search, inspect relevant inst
 4. Update code, claims, tests and affected evidence together.
 5. Run relevant checks and record actual outcomes/limitations.
 6. Review export paths and [rights register](evidence/manifests/rights_register.json).
-7. Open a PR. A genuine non-author human reviews before merge; no self-approval as a group member, auto-merge or force-push.
+7. Open or update a PR for review by the repository owner, `waltywalty`. Leave it unmerged until the owner reviews and authorises merging. Do not fabricate approval, auto-merge or force-push.
+
+Current collaboration policy: owner-account workflow only. Group-member GitHub connections, invitations, access grants, personal edits and `CODEOWNERS` assignments are deferred until a later explicit user instruction. Do not ask for group handles as a prerequisite. This does not change the coursework's genuine contribution records or final-day human calculation checks.
 
 Do not invent a test, approval, permission, model identifier or contribution. Label synthetic inputs/results explicitly.
 

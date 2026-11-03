@@ -6,7 +6,7 @@
   "artifacts": [
     {
       "path": ".github/ISSUE_TEMPLATE/task.md",
-      "sha256": "7365a82dbd39f8a4f2e2dd352f165570bd6f7343432c8273c308d99d4a2f17d2",
+      "sha256": "ea8c27c0f74a5636d8214f25bee27ac634d4f4af32387e4b2e02e086de7772c8",
       "status": "approved",
       "destinations": [
         "github",
@@ -16,8 +16,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -26,7 +26,7 @@
     },
     {
       "path": ".github/pull_request_template.md",
-      "sha256": "549b49066d8a8e1cb2399bfd60fd342f217bce6acbde58f55bd7972996edcc5c",
+      "sha256": "babd9f10a2cb06d5cfb37969085f3281f8824ff0625b2ba4c029a00597642285",
       "status": "approved",
       "destinations": [
         "github",
@@ -36,8 +36,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -86,7 +86,7 @@
     },
     {
       "path": "AGENTS.md",
-      "sha256": "fcfdcae614edf04f23ac2552e6cc47278a80172df43cd16a945b0ff4326a1bfd",
+      "sha256": "4d39ee43368af9a5989407d7868a4cf360200efd3c935be15263301afc76ee0b",
       "status": "approved",
       "destinations": [
         "github",
@@ -96,8 +96,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -106,7 +106,7 @@
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "c1e4ddbe93f0e4a08d8f452999eed01102ddd54d1d03279d772dc19cbaa6e7a6",
+      "sha256": "e0abccc9c900488123baffc4f15a915f01745241e29d2bdccc175ab924c19dbe",
       "status": "approved",
       "destinations": [
         "github",
@@ -116,8 +116,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -126,7 +126,7 @@
     },
     {
       "path": "README.md",
-      "sha256": "7e8eb04f0acb5e3128a24c9eac24ee0c08b9251ba03c525ca4516254fbfcfa3e",
+      "sha256": "69280da3505d340687b87ee152351d8f423ec3fd3fbef8e8a3f266474753b917",
       "status": "approved",
       "destinations": [
         "github",
@@ -136,8 +136,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -207,7 +207,7 @@
     },
     {
       "path": "docs/contributions.md",
-      "sha256": "11d289242430d6ebaddff91c12aa8e89cd41eda6c5082688042ef784cb3e1eb1",
+      "sha256": "b0ddd7a78375a15fe4b0817daab8e0a817bd14ca896ff062189d1d274c5b3bd6",
       "status": "approved",
       "destinations": [
         "github",
@@ -217,8 +217,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -380,7 +380,7 @@
     },
     {
       "path": "docs/skill_log.md",
-      "sha256": "60c56c56845012b60e73afe02f5e06e2b13b84544970e16408c7de58b317782a",
+      "sha256": "8e1de5af9b80d1c5fc42ad095281ade7e8f7330f8fabaa3250b60c1d3b533c73",
       "status": "approved",
       "destinations": [
         "github",
@@ -390,8 +390,8 @@
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1391,6 +1391,33 @@
         "docs/copyright_and_attribution.md"
       ],
       "citations": []
+    },
+    {
+      "path": "evidence/ai_traces/2026-11-03_owner_workflow.json",
+      "sha256": "e1340995ebae57270dacd5e7d268d2ca779edfbbfa81911a078251c7e096b3a5",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission"
+      ],
+      "origin": "Authored record of the actual user scope change; no vendor data or group personal details.",
+      "licence_basis": "User-authorised private coursework repository metadata; no blanket open-source licence or new external-data permission.",
+      "reviewer": "Codex automated provenance review; owner approval not inferred",
+      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": []
     }
-  ]
+  ],
+  "current_collaboration_policy": {
+    "recorded_at": "2026-11-03T17:26:55.339073+00:00",
+    "owner": "waltywalty",
+    "mode": "owner_only_for_now",
+    "group_github_participation": "deferred",
+    "merge_review": "owner authorisation required; not yet recorded",
+    "historical_review_notes": "Earlier dated entries may refer to planned group PR review; that GitHub participation is now deferred, not a current prerequisite. Final-day coursework checks remain separate."
+  }
 }
