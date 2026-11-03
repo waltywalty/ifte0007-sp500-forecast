@@ -14,6 +14,8 @@ os.environ.setdefault("MPLBACKEND", "Agg")
 import matplotlib.pyplot as plt
 import pandas as pd
 
+from ifte0007.cli import offline_calculation
+
 
 def render(results: Path, output: Path) -> list[str]:
     if output.exists():
@@ -63,8 +65,15 @@ def render(results: Path, output: Path) -> list[str]:
     )
     ax.legend()
     save(fig, "rolling_error.png")
-    fig, ax = plt.subplots(figsize=(8, 4))
+    fig, ax = plt.subplots(figsize=(11, 4))
     summary = table.groupby("candidate")[["train_score", "score"]].mean()
+    summary = summary.rename(
+        index={
+            "unchanged": "Unchanged",
+            "variance_lad": "Variance-gap LAD",
+            "weighted_median_constant": "Refitted drift",
+        }
+    )
     summary.rename(
         columns={"train_score": "Apparent training mean", "score": "Chronological evaluation mean"}
     ).plot.bar(ax=ax)
@@ -73,6 +82,7 @@ def render(results: Path, output: Path) -> list[str]:
         ylabel="Mean marks out of 50",
         xlabel="Candidate",
     )
+    ax.legend(loc="upper left", bbox_to_anchor=(1.01, 1), fontsize=9)
     ax.tick_params(axis="x", rotation=15)
     save(fig, "training_vs_evaluation.png")
     fig, axes = plt.subplots(1, 2, figsize=(10, 4))
@@ -97,4 +107,5 @@ if __name__ == "__main__":
     parser.add_argument("--results", type=Path, required=True)
     parser.add_argument("--output", type=Path, required=True)
     args = parser.parse_args()
-    print(json.dumps(render(args.results, args.output), indent=2))
+    with offline_calculation():
+        print(json.dumps(render(args.results, args.output), indent=2))

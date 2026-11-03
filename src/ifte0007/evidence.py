@@ -337,6 +337,32 @@ def package_evidence(manifest_path: Path, output: Path, root: Path | None = None
         ],
     }
     exported_manifest_bytes = canonical_json(exported_manifest) + b"\n"
+    # Safe aliases preserve repository-relative documentation links after ZIP
+    # extraction. They are derived control documents, never verbatim copies of
+    # input JSON or an extension of the artifact payload allowlist.
+    aliases = {verified["rights_register_path"]: exported_rights_bytes}
+    resolved_manifest = manifest_path.resolve(strict=True)
+    if resolved_manifest.is_relative_to(root):
+        manifest_alias = validate_relative_path(resolved_manifest.relative_to(root).as_posix())
+        if manifest_alias in aliases:
+            raise EvidenceError("Manifest and rights-register control aliases collide")
+        alias_manifest = {**exported_manifest, "rights_register": verified["rights_register_path"]}
+        aliases[manifest_alias] = canonical_json(alias_manifest) + b"\n"
+    reserved = {"PACKAGE_MANIFEST.json", "PACKAGE_RIGHTS_REGISTER.json", "PACKAGE_METADATA.json"}
+    if reserved.intersection(verified["files"]) or reserved.intersection(aliases):
+        raise EvidenceError("Manifest uses reserved package metadata names")
+    if set(aliases).intersection(verified["files"]):
+        raise EvidenceError("Derived control alias collides with an allowlisted payload file")
+    archive_names = sorted(set(verified["files"]) | set(aliases) | reserved)
+    for index, name in enumerate(archive_names):
+        if any(other.startswith(name + "/") for other in archive_names[index + 1 :]):
+            raise EvidenceError("Package file/directory paths collide")
+    derived_controls = {
+        "PACKAGE_MANIFEST.json": hashlib.sha256(exported_manifest_bytes).hexdigest(),
+        "PACKAGE_RIGHTS_REGISTER.json": hashlib.sha256(exported_rights_bytes).hexdigest(),
+        **{name: hashlib.sha256(body).hexdigest() for name, body in aliases.items()},
+    }
+    control_count = 3 + len(aliases)
     metadata = {
         "schema_version": 1,
         "source_commit": commit,
@@ -345,12 +371,13 @@ def package_evidence(manifest_path: Path, output: Path, root: Path | None = None
         "rights_register_sha256": verified["rights_register_sha256"],
         "rights_register_export_sha256": hashlib.sha256(exported_rights_bytes).hexdigest(),
         "files": verified["files"],
+        "payload_file_count": verified["file_count"],
+        "derived_control_count": control_count,
+        "archive_file_count": verified["file_count"] + control_count,
+        "derived_controls": derived_controls,
         "destination": verified["destination"],
         "qualification": "Deterministic allowlisted evidence package; not automatic assessment submission.",
     }
-    reserved = {"PACKAGE_MANIFEST.json", "PACKAGE_RIGHTS_REGISTER.json", "PACKAGE_METADATA.json"}
-    if reserved.intersection(verified["files"]):
-        raise EvidenceError("Manifest uses reserved package metadata names")
     descriptor, temporary = tempfile.mkstemp(prefix=".ifte0007-package-", dir=output.parent)
     os.close(descriptor)
     try:
@@ -377,6 +404,8 @@ def package_evidence(manifest_path: Path, output: Path, root: Path | None = None
                 raise EvidenceError("Rights register changed during packaging")
             add(archive, "PACKAGE_MANIFEST.json", exported_manifest_bytes)
             add(archive, "PACKAGE_RIGHTS_REGISTER.json", exported_rights_bytes)
+            for name, body in sorted(aliases.items()):
+                add(archive, name, body)
             add(archive, "PACKAGE_METADATA.json", canonical_json(metadata) + b"\n")
         # Hard-link is atomic and refuses an output created concurrently.
         os.link(temporary, output)
@@ -388,4 +417,7 @@ def package_evidence(manifest_path: Path, output: Path, root: Path | None = None
         "sha256": sha256_file(output),
         "source_commit": commit,
         "file_count": verified["file_count"],
+        "payload_file_count": verified["file_count"],
+        "derived_control_count": control_count,
+        "archive_file_count": verified["file_count"] + control_count,
     }

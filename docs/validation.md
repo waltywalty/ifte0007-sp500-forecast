@@ -90,3 +90,10 @@ Use the actual new directory from `reproduce`. The chart runner refuses an exist
 ## Final-source verification limit
 
 Final verification reparses the supplied original FRED-format CSVs, binds their receipt hashes/protocol/series/date bounds, checks required observed values and reconstructs RV20 from 21 cash-session levels. It rejects stale/missing/wrong values rather than trusting only declared source scalars. This is stronger than a hash-only check, but does not authenticate locally supplied receipts as genuine remote deliveries, reviewers as real people or any licence basis. The original admissible acquisition and real group review remain necessary.
+
+
+## Fresh extracted-package checks
+
+The package emits sanitized control aliases at canonical repository-relative paths so copyright/source documentation links and manifest checks continue to work after extraction. These aliases contain only the approved subset and known schema fields; no pending/unlisted register entries or unknown original JSON fields are copied. Control hashes and payload/control/archive counts are recorded in package metadata.
+
+The repository checker distinguishes a standalone Git checkout from a plain extracted ZIP. In a ZIP it still checks manifests and local links, and explicitly skips tracked-file checks that require the original standalone Git history. A reported skip is not a passed Git-history verification; the source commit remains bound through the package metadata.

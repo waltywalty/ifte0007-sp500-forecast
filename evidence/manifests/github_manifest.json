@@ -57,7 +57,7 @@
     },
     {
       "path": "docs/input_contracts.md",
-      "sha256": "a8f9bde9bf2be3ef0db7ee4c5bf9e8598374f96e0549eb8c30826c57fd360703"
+      "sha256": "b02c57173cfbc6874f4c4c9dd27e281d5e3d5c0b4712e0000331f96fda102491"
     },
     {
       "path": "docs/method_card.md",
@@ -81,7 +81,7 @@
     },
     {
       "path": "docs/validation.md",
-      "sha256": "3ff3f66fd35cdedd024d9ad4b78df0444191d4432fcc89923b36adc6e113f3b3"
+      "sha256": "234eeb27d2065e42a65260dede5846d101e606b986012112e59c1d40b6a9f453"
     },
     {
       "path": "evidence/ai_traces/2026-11-03_implementation.json",
@@ -114,6 +114,10 @@
     {
       "path": "evidence/verification/implementation_review.json",
       "sha256": "f4f54f55cb00a3e603d84ff00cb5a4e1eb199b7f7ddf730b2c04effbc1455347"
+    },
+    {
+      "path": "evidence/verification/packaging_review.json",
+      "sha256": "ded2dbc9c73298772805f0711eb02f3bf36b14b54bc9c740de2d1681b728c4ef"
     },
     {
       "path": "notebooks/forecasting_walkthrough.ipynb",
@@ -153,7 +157,7 @@
     },
     {
       "path": "research/runners/plot_results.py",
-      "sha256": "504a0122346be1d4944bc6705719d4f5aa58704a2c23f04d874ed55c42b38329"
+      "sha256": "2d503ad1126fe9ea2a2f60273635a1c434c05aaf0117851f7c0cd683aa7d6e96"
     },
     {
       "path": "research/runners/verify_parity.py",
@@ -181,7 +185,7 @@
     },
     {
       "path": "src/ifte0007/evidence.py",
-      "sha256": "9dcc03bb28649ba906a283f9b96d2537c2d2fad1ddf9e798d8ce2a832338962d"
+      "sha256": "bacbe5a187e6b469327672336ef1d5075e1e666d7f8a234db8db43f923dd8145"
     },
     {
       "path": "src/ifte0007/features.py",
@@ -225,7 +229,7 @@
     },
     {
       "path": "tests/test_evidence.py",
-      "sha256": "16847a230f7e6c33cb0906e43f2774cf7dd624262930dc5be155a9d5bac6b64c"
+      "sha256": "d77198375f715992ffd0a2c4fd3df216235697ce2ba8f261c235578b4b894d8f"
     },
     {
       "path": "tests/test_features.py",
@@ -265,7 +269,7 @@
     },
     {
       "path": "tools/check_repository.py",
-      "sha256": "573aad964f2fe6fb59e7109e24789595ee7cb2b562bfd3350e821d5bc56a7ca0"
+      "sha256": "dc5af5ca64e3fba12d7573f46955e59c134a820f2e768d69791aba49bf3362ad"
     },
     {
       "path": "tools/lock_dependencies.py",

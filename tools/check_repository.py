@@ -23,14 +23,21 @@ def check(root: Path) -> dict:
     names = {entry["path"] for entry in value["files"]}
     metadata = {"evidence/manifests/github_manifest.json", value["rights_register"]}
     allowed = names | metadata
-    tracked = (
-        subprocess.run(["git", "ls-files", "-z"], cwd=root, capture_output=True, check=True)
-        .stdout.decode()
-        .split("\0")
+    git_root = subprocess.run(
+        ["git", "rev-parse", "--show-toplevel"], cwd=root, capture_output=True, text=True
     )
-    unknown = set(filter(None, tracked)) - allowed
-    if unknown:
-        raise ValueError(f"Tracked files outside reviewed export: {sorted(unknown)}")
+    standalone = (
+        git_root.returncode == 0 and Path(git_root.stdout.strip()).resolve() == root.resolve()
+    )
+    if standalone:
+        tracked = (
+            subprocess.run(["git", "ls-files", "-z"], cwd=root, capture_output=True, check=True)
+            .stdout.decode()
+            .split("\0")
+        )
+        unknown = set(filter(None, tracked)) - allowed
+        if unknown:
+            raise ValueError(f"Tracked files outside reviewed export: {sorted(unknown)}")
     failures = []
     links_checked = 0
     for name in sorted(allowed):
@@ -78,6 +85,9 @@ def check(root: Path) -> dict:
         raise ValueError("\n".join(failures))
     return {
         "status": "passed",
+        "git_boundary_check": "standalone checkout verified"
+        if standalone
+        else "not a standalone checkout; tracked-file check unavailable, manifest checks still performed",
         "local_links_checked": links_checked,
         "publication": result,
         "limitation": "Mechanical checks; human writing, rights and financial review still required",

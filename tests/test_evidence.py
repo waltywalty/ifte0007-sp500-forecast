@@ -147,6 +147,8 @@ def test_package_exports_only_selected_known_rights_fields(tmp_path, monkeypatch
     package_evidence(path, output, tmp_path)
     with zipfile.ZipFile(output) as archive:
         assert b"DO_NOT_EXPORT" not in archive.read("PACKAGE_MANIFEST.json")
+        assert b"DO_NOT_EXPORT" not in archive.read("manifest.json")
+        assert b"DO_NOT_EXPORT" not in archive.read("rights.json")
         content = archive.read("PACKAGE_RIGHTS_REGISTER.json")
         assert b"DO_NOT_EXPORT" not in content
         exported = json.loads(content)
@@ -161,9 +163,16 @@ def test_package_exports_only_selected_known_rights_fields(tmp_path, monkeypatch
             metadata["manifest_export_sha256"]
             == hashlib.sha256(archive.read("PACKAGE_MANIFEST.json")).hexdigest()
         )
+        assert metadata["payload_file_count"] == 1
+        assert metadata["derived_control_count"] == 5
+        assert metadata["archive_file_count"] == len(archive.namelist()) == 6
+        for name, digest in metadata["derived_controls"].items():
+            assert hashlib.sha256(archive.read(name)).hexdigest() == digest
         extracted = tmp_path / "extracted"
         archive.extractall(extracted)
     assert verify_evidence(extracted / "PACKAGE_MANIFEST.json", extracted)["file_count"] == 1
+    assert verify_evidence(extracted / "manifest.json", extracted)["file_count"] == 1
+    assert json.loads((extracted / "manifest.json").read_text())["rights_register"] == "rights.json"
 
 
 def test_package_rejects_a_dirty_rights_register(tmp_path, monkeypatch):
@@ -184,5 +193,33 @@ def test_package_rejects_a_dirty_rights_register(tmp_path, monkeypatch):
 
     monkeypatch.setattr(evidence, "_verify_committed_file", match_committed)
     with pytest.raises(EvidenceError, match="source commit"):
+        package_evidence(path, tmp_path / "not-produced.zip", tmp_path)
+    assert not (tmp_path / "not-produced.zip").exists()
+
+
+@pytest.mark.parametrize(
+    "reserved_path", ["PACKAGE_MANIFEST.json", "PACKAGE_METADATA.json/child.txt"]
+)
+def test_package_control_collision_is_rejected(tmp_path, monkeypatch, reserved_path):
+    path, register, manifest = make_evidence(tmp_path)
+    candidate = tmp_path / reserved_path
+    candidate.parent.mkdir(exist_ok=True)
+    candidate.write_text("An authored payload still cannot occupy package control paths\n")
+    digest = hashlib.sha256(candidate.read_bytes()).hexdigest()
+    manifest["files"].append({"path": reserved_path, "sha256": digest})
+    register["artifacts"].append(
+        {
+            **register["artifacts"][0],
+            "path": reserved_path,
+            "sha256": digest,
+        }
+    )
+    path.write_text(json.dumps(manifest))
+    (tmp_path / "rights.json").write_text(json.dumps(register))
+    import ifte0007.evidence as evidence
+
+    monkeypatch.setattr(evidence, "_git_commit", lambda root: "a" * 40)
+    monkeypatch.setattr(evidence, "_verify_committed_file", lambda *args: None)
+    with pytest.raises(EvidenceError, match="reserved|collide"):
         package_evidence(path, tmp_path / "not-produced.zip", tmp_path)
     assert not (tmp_path / "not-produced.zip").exists()
