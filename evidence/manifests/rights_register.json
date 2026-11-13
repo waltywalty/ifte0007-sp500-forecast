@@ -1074,7 +1074,7 @@
     },
     {
       "path": "submission/README.md",
-      "sha256": "e5ac69050baadc5aa54e86bc61658a906f3ce4436098347bfa60c35ef6ac9438",
+      "sha256": "ffa7ba017bad0f29def0ae208a8eafb91faa9df827587aadc280e16bc147702d",
       "status": "approved",
       "destinations": [
         "github",
@@ -1086,7 +1086,7 @@
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
       "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
-      "reviewed_at": "2026-11-13T04:50:39.848423+00:00",
+      "reviewed_at": "2026-11-13T06:11:22.830006+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1582,7 +1582,7 @@
     },
     {
       "path": "evidence/verification/pre_cutoff_evidence.md",
-      "sha256": "69ce690ee8b66102a3ed0548897bdeb0e4cc193d626ac3067faa7a4ffb03e773",
+      "sha256": "5f1bd3983c06b14b6dd8b183ebfa57a3af60d7edb387f04bc7099326bc5e2a7c",
       "status": "approved",
       "destinations": [
         "github",
@@ -1594,11 +1594,74 @@
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Owner-authorised public assessment documentation. Contains project-authored explanation, group-calculated aggregate results or invented data. Provider source observations, raw payloads and the actual forecast record are outside this scope.",
       "reviewer": "Codex scope review under the repository owner’s assessment publishing instructions",
-      "reviewed_at": "2026-11-13T05:34:59.489638+00:00",
+      "reviewed_at": "2026-11-13T06:11:22.830006+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
       ]
+    },
+    {
+      "path": "tools/replay_report.py",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission",
+        "public"
+      ],
+      "origin": "Project-authored standard-library arithmetic checker or invented test material.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Owner-authorised public assessment material. The example and tests use invented inputs. Original provider observations and the actual forecast record remain outside this permission.",
+      "reviewer": "Codex scope review under the repository owner’s assessment publishing instructions",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [],
+      "sha256": "60f7802ca663d7996b8671d8dc6ff506cd90a91998c5b597a1704142fffa6c8f",
+      "reviewed_at": "2026-11-13T06:11:22.830006+00:00"
+    },
+    {
+      "path": "tests/test_replay_report.py",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission",
+        "public"
+      ],
+      "origin": "Project-authored standard-library arithmetic checker or invented test material.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Owner-authorised public assessment material. The example and tests use invented inputs. Original provider observations and the actual forecast record remain outside this permission.",
+      "reviewer": "Codex scope review under the repository owner’s assessment publishing instructions",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [],
+      "sha256": "482164a52ecc13c4e85443eb9789ba31285d7614662bd6ae9dd13a7121f0890e",
+      "reviewed_at": "2026-11-13T06:11:22.830006+00:00"
+    },
+    {
+      "path": "evidence/synthetic/report_replay_example.json",
+      "status": "approved",
+      "destinations": [
+        "github",
+        "group",
+        "submission",
+        "public"
+      ],
+      "origin": "Project-authored standard-library arithmetic checker or invented test material.",
+      "material_treatment": "generated_or_authored_project_material",
+      "licence_basis": "Owner-authorised public assessment material. The example and tests use invented inputs. Original provider observations and the actual forecast record remain outside this permission.",
+      "reviewer": "Codex scope review under the repository owner’s assessment publishing instructions",
+      "required_notices": [
+        "THIRD_PARTY_NOTICES.md",
+        "docs/copyright_and_attribution.md"
+      ],
+      "citations": [],
+      "sha256": "eaaa02ebb3f041b796653416f9f595872e494f837ed27399bca41d1d9d3a3dfc",
+      "reviewed_at": "2026-11-13T06:11:22.830006+00:00"
     }
   ],
   "current_collaboration_policy": {

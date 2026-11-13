@@ -8,7 +8,14 @@ The source screen saved on 27 October at 00:13:20 UTC anticipated a potentially 
 
 The 28 October design prespecified the 0.001 L1 slope penalty and 50% simple-return shrinkage. The registered challenger specification at 14:56:19 UTC records both choices before this set of fits and uses the same shrinkage for the refitted drift control. The penalty limits slope magnitude. Shrinkage dampens both the intercept and slope contributions to the return. The exact constants were fixed design choices. There is no dated calibration establishing their optimality.
 
-The later rebound screen is exploratory. Its negative-gap shock cell had 12 observations across three episodes and a 3.35% median return, versus 0.95% across 14 nonnegative-gap shock observations. The final feature window did not meet the 5% decline condition. The positive factor adjustment follows from the frozen negative slope and below-average final gap. See [the benchmark trace](benchmark_sensitivity.md) for the crisis-exclusion and broader quintile evidence.
+| Evidence | What it supports |
+|---|---|
+| 27 October risk-compensation hypothesis | A wider gap could indicate higher required equity compensation and a potentially positive slope. The dated screen also allowed near-term stress to persist. |
+| Exploratory rebound screen | After a 20-session decline of at least 5%, median subsequent returns were **3.35%** with a negative raw gap and **0.95%** with a nonnegative raw gap. The groups contain 12 and 14 observations respectively. The 12 negative-gap observations span three episodes. |
+| Broader and crisis-exclusion checks | The lowest standardised-gap quintile had a **0.58%** median subsequent return and the highest had **1.08%**. That ordering runs opposite to the rebound hypothesis. Dropping February–June 2020 training labels changed the terminal standardised slope from −0.001879 to +0.000614. The full-fit exploratory 95% coefficient interval spanned zero. |
+| Final calculation and benchmark | The final feature window fell outside the shock screen. The below-average gap and negative fitted slope contributed **+3.50 index points** within the frozen fit. Relative to separately refitted drift, mean score differences were **+0.0004** in 2022–2025 and **−0.0056** in 2026. Both exploratory paired 95% intervals include zero, so the comparisons provide weak evidence of incremental forecasting value. |
+
+The rebound and sensitivity checks use previously examined historical data. See the [benchmark trace](benchmark_sensitivity.md) for the matched cohorts, uncertainty estimates and calculation records.
 
 | Evidence | Original project-relative path | Original SHA-256 |
 |---|---|---|
@@ -21,7 +28,7 @@ The later rebound screen is exploratory. Its negative-gap shock cell had 12 obse
 
 ## October rehearsal receipt metadata
 
-All three responses validated before the nonbinding 28 October issue at 15:09:18 UTC. The original raw and normalised hashes were independently checked. These receipts establish retrieval for that rehearsal only. All times are UTC.
+All three original receipts record successful HTTP 200 validation and an observation through 27 October. Their SHA-256 digests match the entries below. Each was received before the nonbinding rehearsal issue on 28 October at 15:09:18 UTC. The original raw and normalised hashes were independently checked. These receipts document retrieval for that rehearsal. All times are UTC.
 
 | Series | Receipt time | Last delivered observation | HTTP | Original receipt SHA-256 |
 |---|---|---|---|---|
@@ -31,7 +38,7 @@ All three responses validated before the nonbinding 28 October issue at 15:09:18
 
 ## Final pre-cutoff requests and manual route
 
-These six requests timed out. No original provider payload came back in either batch.
+All six original receipts record timeouts on 12 November, before the saved calculation and the final information cutoff on 13 November at 12:00 UTC. Their SHA-256 digests match the entries below. Neither batch delivered a provider payload.
 
 | Series | Request time UTC | Failure time UTC | Original receipt SHA-256 |
 |---|---|---|---|
@@ -42,6 +49,13 @@ These six requests timed out. No original provider payload came back in either b
 | VIXCLS | 2026-11-12 22:55:41.205668 | 2026-11-12 22:56:02.045166 | `9051385efc48e45dc0916675933dad96c09559a7fe6d07eec960ead8c65c2549` |
 | VXVCLS | 2026-11-12 22:55:41.205752 | 2026-11-12 22:56:02.045317 | `47d13bb85685c5892a195322f814dfe389361b398a6509c0534a4920acd96bd2` |
 
-The manual inputs hash-match the calculation saved at 23:10:34 UTC on 12 November. The FRED options pages displayed a 14:37 UTC update and AP published its cash-close report at 21:17 UTC. Those are publication times.
+## Manual source and confirmation chronology
 
-The group representative’s confirmation of approval was recorded at 00:53:02 UTC on 13 November, before the noon cutoff. The representative reports that the manual source and forecast checks took place around that confirmation. The record gives the confirmation time and an approximate time for the manual checks. The report provides the source links and arithmetic. The original saved inputs and adopted record remain with the group.
+| Item | Observation date | Recorded publication or page update | Earliest documented use or confirmation |
+|---|---|---|---|
+| Saved FRED cash history | Through 11 November | Publication time for the saved export is unavailable | Included in the calculation saved on 12 November at 23:10:34 UTC |
+| Final cash baseline | 12 November cash close at 21:00 UTC | AP closing report published on 12 November at 21:17:31 UTC | Used in the calculation saved on 12 November at 23:10:34 UTC |
+| Common VIX and VIX3M input | 11 November | FRED tables displayed a 12 November update at 14:37 UTC | Used in the calculation saved on 12 November at 23:10:34 UTC |
+| Group approval | 13 November | — | Confirmation recorded at 00:53:02 UTC. The group representative reports that the manual source and forecast checks took place around that time. |
+
+The manual input hashes match the saved calculation. Publication and update times describe the sources, and the calculation time establishes when the inputs were already in use. Exact individual source-access times are unavailable. The report provides the source links and arithmetic. The original saved inputs and adopted record remain with the group.
