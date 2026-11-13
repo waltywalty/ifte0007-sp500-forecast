@@ -2,7 +2,7 @@
 
 An assessed, reproducible implementation of our selected forecasting method. Target: **official USD S&P 500 price-index close, 20 November 2026 at 21:00 UTC**. Information cutoff: **13 November 2026 at 12:00 UTC/London**.
 
-**First release: code and synthetic examples.** Empirical snapshots, weekly financial ledgers and figures are not distributed by default. Permission is reviewed artifact by artifact. A synthetic pass proves mechanics, not historical accuracy. The original forecasting operation remains separate.
+**Public assessment repository: code, methods and synthetic examples.** Empirical snapshots, weekly financial ledgers and figures are not distributed by default. Permission is reviewed artifact by artifact. A synthetic pass proves mechanics, not historical accuracy. The original forecasting operation remains separate.
 
 ## Reading route
 

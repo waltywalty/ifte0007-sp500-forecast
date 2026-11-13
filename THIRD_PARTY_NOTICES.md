@@ -1,6 +1,6 @@
 # Third-party notices and rights
 
-This private assessment repository has no blanket open-source/Creative Commons licence. Establish authority over the group's own contributions before granting outbound rights; third-party terms remain separate.
+This public assessment repository has no blanket open-source/Creative Commons licence. Establish authority over the group's own contributions before granting outbound rights; third-party terms remain separate.
 
 The initial code, explanations and invented fixtures are created for this project with disclosed AI assistance. That does not certify originality, ownership or universal clearance. Record subsequently identified adapted fragments in the [rights register](evidence/manifests/rights_register.json) and retain upstream notices here.
 

@@ -21,23 +21,23 @@
     },
     {
       "path": "AGENTS.md",
-      "sha256": "4d39ee43368af9a5989407d7868a4cf360200efd3c935be15263301afc76ee0b"
+      "sha256": "8847e5fea1cd7ae993725c6e043b21ae6abe5da6f317c79912d3782e3dc7ca80"
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "31dac51cd16910490cb68df0ca59d6a38af22e0cb6454c62d13a1892212d223b"
+      "sha256": "65a12f9a47d03853001823168104436e6e89add3920798d5f4b196074391f087"
     },
     {
       "path": "README.md",
-      "sha256": "b33dcf79611b1a6f4cf94b48302c1accbb9522d2190538ac2014069cc5c47757"
+      "sha256": "c717eeab2292091cda964c76faf749ea95add9397322ecb118d48a17758eaf2b"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "sha256": "bd4e689bf36d47d842da231293c0a6789456f8a89fe9521bc6fad3ceef3018d2"
+      "sha256": "08ee9a2024826fbef8d218ecea6c811f643a89d150733fe39c8dfe31848a1a92"
     },
     {
       "path": "docs/ai_use.md",
-      "sha256": "8f2a9bef9824b85bc556f3d96921edddbf5d83549bda339b6d218f483b17ba30"
+      "sha256": "1df732525dfa3bee7f6ff589a637da4402c55f5df46956c0c0cf51474983fff1"
     },
     {
       "path": "docs/assessment_map.md",
@@ -77,7 +77,7 @@
     },
     {
       "path": "docs/skill_log.md",
-      "sha256": "9f2861e27d80e3aa8f0ec006d838d43a7f4c0a311fb35817a245d9cd705c82a3"
+      "sha256": "d4f72ca5a1e982a628d09474e71070d765e8d19bee125b6a53eb5f5c5a76a9e1"
     },
     {
       "path": "docs/validation.md",
@@ -213,7 +213,7 @@
     },
     {
       "path": "submission/README.md",
-      "sha256": "aee80d3b9294dc1606573958119c4c2a3657b542d119c7c3b90ee7aed8eec080"
+      "sha256": "a0cc6d64109333c00af3efc1b2ae25bfbd1338a9d8953252351ee9790bc58c25"
     },
     {
       "path": "tests/conftest.py",

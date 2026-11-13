@@ -14,7 +14,7 @@ Use branch protection where supported; do not describe a manual convention as te
 
 ## Rights checklist
 
-Identify new external material, verify citations, record reuse basis/destination and retain notices. Approval for private GitHub is not approval for a ZIP or public release. Automated checks cannot establish legal clearance.
+Identify new external material, verify citations, record reuse basis/destination and retain notices. Record separate approval for public GitHub and the assessment ZIP. Automated checks cannot establish legal clearance.
 
 ## Verification
 
@@ -33,4 +33,4 @@ Keep null/negative findings and uncertainty. No retuning from recent misses, fak
 
 ## Observed GitHub enforcement status — 3 November 2026
 
-The private repository UI states that branch-protection rules would not currently be enforced under this account configuration. No upgrade, account move, visibility change or security weakening was performed. Follow the current manual owner-review and passing-check convention; do not describe it as enforced protection. Historical records may refer to the earlier planned group-review workflow; that GitHub participation is now deferred. Genuine final-day coursework checks remain required separately.
+Follow the owner-review and passing-check convention before merging. Check the repository settings before describing any branch protection as enforced. Historical records may refer to the earlier planned group-review workflow; that GitHub participation is now deferred. Genuine final-day coursework checks remain required separately.

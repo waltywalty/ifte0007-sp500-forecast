@@ -25,3 +25,15 @@ Use the following structure for analysis and review. These are reusable instruct
 | Review the report | Trace each numerical or methodological claim to an artifact or original source. Preserve the distinction between the selected method, the provisional calculation and the group's approval. | Claim-to-evidence map and a list of unresolved checks. |
 
 For a representative trace, summarise the instruction, date, tool, result and consequence. Use approved artifact references in place of pasted inputs. Separate actual use records from reusable prompt examples. Keep raw conversations, user-supplied data, personal identifiers and unapproved figures outside the repository. An exact method or command can be reproduced with the synthetic fixtures. Claims about actual historical results require their own permitted evidence.
+
+## Skills and public repository guidance
+
+Codex used task-specific skills to make its research and verification steps repeatable. It used [skills.sh](https://www.skills.sh/) and the installed catalogue to find relevant instructions, inspect upstream sources and reuse existing skills when they covered the task. The [skill log](skill_log.md) records selection decisions. These guides informed the workflow. The checked-in Python code runs independently of them.
+
+| Applied guidance | What it changed in the workflow |
+|---|---|
+| [Backtesting Frameworks](https://github.com/wshobson/agents/blob/main/plugins/quantitative-trading/skills/backtesting-frameworks/SKILL.md) and the installed Statistical Analysis skill | Set up chronological refits with matured labels, training-only scaling and matched benchmarks. Used paired block resampling for uncertainty in score differences. |
+| [Validate Data](https://github.com/openai/plugins/blob/main/plugins/data-analytics/skills/validate-data/SKILL.md) and [Analyze Data Quality](https://github.com/openai/plugins/blob/main/plugins/data-analytics/skills/analyze-data-quality/SKILL.md) | Checked instrument identity, session coverage and source timestamps. Recomputed forecast arithmetic separately and checked that reported comparisons used the intended cohorts. |
+| Python Testing Patterns, Documents and ECC Documentation Governance | Tested timing boundaries with isolated fixtures, inspected the rendered report and checked the links between claims, evidence and reproduction commands. |
+
+Codex also inspected [ml4t/skills](https://github.com/ml4t/skills) for backtest-overfitting guidance. Its Sharpe-focused examples did not fit this forecast loss and chronological design, so the agent retained the existing workflow. Public skills and repositories are cited as guidance. Runtime dependencies are listed in the lockfile and covered by the [third-party notices](../THIRD_PARTY_NOTICES.md).

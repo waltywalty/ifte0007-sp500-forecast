@@ -11,13 +11,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
-      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -31,13 +32,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
-      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -51,13 +53,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -71,13 +74,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -86,18 +90,19 @@
     },
     {
       "path": "AGENTS.md",
-      "sha256": "4d39ee43368af9a5989407d7868a4cf360200efd3c935be15263301afc76ee0b",
+      "sha256": "8847e5fea1cd7ae993725c6e043b21ae6abe5da6f317c79912d3782e3dc7ca80",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
-      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -106,18 +111,19 @@
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "31dac51cd16910490cb68df0ca59d6a38af22e0cb6454c62d13a1892212d223b",
+      "sha256": "65a12f9a47d03853001823168104436e6e89add3920798d5f4b196074391f087",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:29:09.188418+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -126,18 +132,19 @@
     },
     {
       "path": "README.md",
-      "sha256": "b33dcf79611b1a6f4cf94b48302c1accbb9522d2190538ac2014069cc5c47757",
+      "sha256": "c717eeab2292091cda964c76faf749ea95add9397322ecb118d48a17758eaf2b",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:29:09.188516+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -146,35 +153,37 @@
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
-      "sha256": "bd4e689bf36d47d842da231293c0a6789456f8a89fe9521bc6fad3ceef3018d2",
+      "sha256": "08ee9a2024826fbef8d218ecea6c811f643a89d150733fe39c8dfe31848a1a92",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [],
       "citations": []
     },
     {
       "path": "docs/ai_use.md",
-      "sha256": "8f2a9bef9824b85bc556f3d96921edddbf5d83549bda339b6d218f483b17ba30",
+      "sha256": "1df732525dfa3bee7f6ff589a637da4402c55f5df46956c0c0cf51474983fff1",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
-      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "origin": "Authored project guidance and usage evidence with upstream references. No third-party guide text is incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:28:22.124597+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -190,13 +199,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:29:09.188537+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -212,13 +222,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-requested owner-only workflow; owner approval not inferred",
-      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -234,13 +245,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [],
       "citations": [
         "docs/references.bib"
@@ -253,13 +265,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:28:22.125019+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -275,13 +288,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored marker handoff under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T01:09:05.526377+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -297,13 +311,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -319,13 +334,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:28:22.125044+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -341,13 +357,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -363,13 +380,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -380,18 +398,19 @@
     },
     {
       "path": "docs/skill_log.md",
-      "sha256": "9f2861e27d80e3aa8f0ec006d838d43a7f4c0a311fb35817a245d9cd705c82a3",
+      "sha256": "d4f72ca5a1e982a628d09474e71070d765e8d19bee125b6a53eb5f5c5a76a9e1",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
-      "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
+      "origin": "Authored project guidance and usage evidence with upstream references. No third-party guide text is incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored marker handoff under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T01:09:05.526377+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -407,13 +426,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:28:22.125091+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -429,13 +449,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:29:09.188558+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -449,13 +470,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored coursework documentation under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T00:29:09.188576+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -469,13 +491,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored marker handoff under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T01:09:05.526377+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -489,13 +512,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -509,13 +533,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -529,13 +554,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -549,13 +575,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -569,13 +596,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -589,13 +617,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -609,13 +638,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -629,13 +659,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Generated exact package pins and official PyPI distribution hashes; dependency software is not vendored.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -649,13 +680,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored provenance, software-verification or research-lineage metadata; no vendor financial levels.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -669,13 +701,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -689,13 +722,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Byte-exact authored project protocol, imported from original local research; no external publication text or price rows.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -709,13 +743,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Byte-exact authored project protocol, imported from original local research; no external publication text or price rows.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -729,13 +764,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Byte-exact authored project protocol, imported from original local research; no external publication text or price rows.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -749,13 +785,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -769,13 +806,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T15:03:05.924432+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -789,13 +827,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -809,13 +848,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -829,13 +869,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -849,13 +890,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -869,13 +911,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -889,13 +932,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -909,13 +953,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T15:03:05.924432+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -929,13 +974,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -949,13 +995,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -969,13 +1016,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -989,13 +1037,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1009,13 +1058,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1024,18 +1074,19 @@
     },
     {
       "path": "submission/README.md",
-      "sha256": "aee80d3b9294dc1606573958119c4c2a3657b542d119c7c3b90ee7aed8eec080",
+      "sha256": "a0cc6d64109333c00af3efc1b2ae25bfbd1338a9d8953252351ee9790bc58c25",
       "status": "approved",
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex scope review of authored marker handoff under the user-authorised owner workflow",
-      "reviewed_at": "2026-11-13T01:09:05.526377+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1049,13 +1100,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1069,13 +1121,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1089,13 +1142,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored AI-assisted synthetic fixture or explanation; numerical examples are invented, not market observations.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1109,13 +1163,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1129,13 +1184,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T15:03:05.924432+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1149,13 +1205,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1169,13 +1226,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1189,13 +1247,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1209,13 +1268,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1229,13 +1289,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1249,13 +1310,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1269,13 +1331,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1289,13 +1352,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1309,13 +1373,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1329,13 +1394,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T15:03:05.924432+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1349,13 +1415,14 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored project code or original explanatory documentation, assisted by Codex; consulted sources cited, no third-party source text intentionally incorporated.",
       "material_treatment": "generated_or_authored_project_material",
-      "licence_basis": "Explicit user authorisation for this private code-first coursework repository and assessment workflow. Scope review of authored/synthetic material; no blanket open-source licence or external-data permission is inferred.",
-      "reviewer": "Codex automated provenance review under the user-approved plan; genuine group PR review remains pending",
-      "reviewed_at": "2026-11-03T13:35:41.477751+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1380,12 +1447,13 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored actual software-verification metadata; no vendor financial levels.",
-      "licence_basis": "User-authorised private code-first coursework and assessment workflow; no open-source licence, external-data permission or legal certification inferred.",
-      "reviewer": "Codex automated provenance review; genuine group PR review pending",
-      "reviewed_at": "2026-11-03T15:03:45.219766+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
@@ -1399,12 +1467,13 @@
       "destinations": [
         "github",
         "group",
-        "submission"
+        "submission",
+        "public"
       ],
       "origin": "Authored record of the actual user scope change; no vendor data or group personal details.",
-      "licence_basis": "User-authorised private coursework repository metadata; no blanket open-source licence or new external-data permission.",
-      "reviewer": "Codex automated provenance review; owner approval not inferred",
-      "reviewed_at": "2026-11-03T17:26:55.339073+00:00",
+      "licence_basis": "User authorisation for public assessment access to reviewed project-authored code, documentation and synthetic fixtures. Third-party notices remain in force. This approval grants no blanket outbound licence and covers no original provider histories or other empirical payloads.",
+      "reviewer": "Codex scope review of the public assessment export authorised by the repository owner",
+      "reviewed_at": "2026-11-13T04:36:29.445129+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"

@@ -31,3 +31,9 @@ Consulted the local find-skills workflow, GitHub Operations and the documentatio
 ## Marker reproduction handoff
 
 Repeated local skill discovery and reused GitHub Operations and documentation governance. Clarified the standalone marker replay and the separate registered source verifier within the existing submission and input-contract documentation. No new skill or dependency was needed. No original source files, approval records or financial values were transferred in this update.
+
+## Skill use and assessment evidence
+
+Used find-skills to inspect the installed documentation, validation and GitHub guidance. Reused Documents, Validate Data and GitHub Operations. The existing tools covered this work. Reviewed the public upstream links and recorded examples of guidance actually applied in [AI use](ai_use.md).
+
+The diagnostic review caught a timestamp-unit error before the reported coefficient bootstrap fits. The correction preserved the failed attempt and left the registered model specification unchanged. The assessment materials document this separately from the final forecast replay. Repository guidance includes original descriptions and links to upstream sources. No skill source files are needed to run the project.

@@ -31,7 +31,7 @@ Do not invent a test, approval, permission, model identifier or contribution. La
 
 ## Rights
 
-Write independently and cite borrowed ideas. Register copied/adapted material and empirical artifacts, including intended destination and notices. Citation is not permission. Private GitHub is sharing/hosting. Pending items remain outside exports. No automatic blanket licence or presumption that AI output is original.
+Write independently and cite borrowed ideas. Register copied/adapted material and empirical artifacts, including intended destination and notices. Citation is not permission. GitHub is public. Review the specific material for that destination before uploading. Pending items remain outside exports. No automatic blanket licence or presumption that AI output is original.
 
 ## Final boundary
 

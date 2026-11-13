@@ -28,7 +28,7 @@ A labelled sample/synthetic route explains what it proves and what empirical wor
 
 ## Marker reproduction
 
-Use the submitted evidence ZIP as the assessment entry point. Extract it to a fresh directory and follow its README. The archive is designed for offline use without private GitHub access. The repository is the source for the fixed model and its synthetic end-to-end demonstration.
+Use the submitted evidence ZIP as the assessment entry point. Extract it to a fresh directory and follow its README. The archive is designed for offline use without GitHub access. The repository is the source for the fixed model and its synthetic end-to-end demonstration.
 
 | Check | Where to run it | What the check establishes |
 |---|---|---|
