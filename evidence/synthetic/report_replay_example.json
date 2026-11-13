@@ -1,0 +1,9 @@
+{
+  "baseline": "100",
+  "vix": 20,
+  "realised_variance": "0.03",
+  "training_mean": 0,
+  "training_sd": "0.02",
+  "intercept": "1.02",
+  "slope": "0.02"
+}

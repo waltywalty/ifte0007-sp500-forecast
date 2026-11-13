@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "recorded_at": "2026-11-03T15:03:05.924432+00:00",
+  "status": "local_checks_passed",
+  "base_review_commit": "d6bb4083ead3453396f575a68baed8b190b3f7f1",
+  "checked_file_hashes": {
+    "src/ifte0007/evidence.py": "bacbe5a187e6b469327672336ef1d5075e1e666d7f8a234db8db43f923dd8145",
+    "tests/test_evidence.py": "d77198375f715992ffd0a2c4fd3df216235697ce2ba8f261c235578b4b894d8f",
+    "tools/check_repository.py": "dc5af5ca64e3fba12d7573f46955e59c134a820f2e768d69791aba49bf3362ad",
+    "research/runners/plot_results.py": "2d503ad1126fe9ea2a2f60273635a1c434c05aaf0117851f7c0cd683aa7d6e96",
+    "docs/input_contracts.md": "b02c57173cfbc6874f4c4c9dd27e281d5e3d5c0b4712e0000331f96fda102491",
+    "docs/validation.md": "234eeb27d2065e42a65260dede5846d101e606b986012112e59c1d40b6a9f453"
+  },
+  "checks": {
+    "pytest_passed": 80,
+    "ruff_check": "passed",
+    "ruff_format_check": "passed",
+    "initial_GitHub_CI": "passed on Ubuntu for base review commit",
+    "initial_extracted_package": "manifest verification, synthetic demo and78tests passed; canonical documentation aliases subsequently improved",
+    "synthetic_chart_generation": "fourcharts rendered; inspected weekly and trainingcomparison; legend improved",
+    "new_package_integration": "Not asserted by this record; requires a fresh extraction of the follow-up commit."
+  },
+  "changes": [
+    "Derived canonical manifest/rights aliases preserve documentation navigation without exporting pending or unknown fields.",
+    "Package metadata binds each nonself control file and distinguishes payload/control/archive counts.",
+    "ZIP checker avoids accidentally using a parent Git repository; reports tracked-file check unavailable for plain extraction.",
+    "Chart legend placed outside comparison bars; all examples remain explicitly synthetic."
+  ],
+  "qualification": "Software and invented-input verification. No model changes, new empirical accuracy, human approval or submission."
+}

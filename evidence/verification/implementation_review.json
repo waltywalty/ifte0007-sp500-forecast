@@ -1,0 +1,53 @@
+{
+  "status": "passed",
+  "source_hashes": {
+    "features": "60dfc71525ebb74b7d9e2f1ec9c7d13f2ac3d13abef0a8df2ba23dac33415d19",
+    "predictions": "452275c91e7d157cb337dede0ae48d4c0d0f3a8cd6abacffd65f37e9130165c7"
+  },
+  "compared_prediction_rows": 1050,
+  "scored_origins": 350,
+  "exact_selected_fit_count": 350,
+  "max_differences": {
+    "forecast": 9.094947017729282e-13,
+    "score": 7.105427357601002e-15,
+    "ape": 1.7763568394002505e-15,
+    "n_train": 0.0,
+    "train_score": 7.105427357601002e-15,
+    "train_ape": 2.220446049250313e-16,
+    "train_p90": 4.440892098500626e-16,
+    "n_residuals": 0.0
+  },
+  "origin_year_counts": {
+    "2020": 47,
+    "2021": 53,
+    "2022": 52,
+    "2023": 52,
+    "2024": 52,
+    "2025": 52,
+    "2026": 42
+  },
+  "input_bytes_unchanged": true,
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.0.6",
+    "scipy": "1.16.3",
+    "exchange-calendars": "4.13.2",
+    "ifte0007-forecast": "0.1.0",
+    "solver": "scipy.optimize.linprog(method='highs')"
+  },
+  "qualification": "Reproduction of exposed saved evidence; not new prediction accuracy or a fresh test",
+  "recorded_at": "2026-11-03T13:31:12.582404+00:00",
+  "checks": {
+    "pytest_passed": 78,
+    "ruff_check": "passed",
+    "pip_check": "passed",
+    "hash_locked_install": "passed",
+    "synthetic_reproduction_origins": 93,
+    "synthetic_comparison_rows": 279,
+    "notebook_cells_executed_offline": 3,
+    "original_guard_files_byte_exact": 13
+  },
+  "scope": "Software extraction and invented-input checks only. Financial source rows and full metric reports remain local and are excluded from this code-first export.",
+  "human_review": "Pending; no real group approval is recorded by this verification metadata."
+}

@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "kind": "synthetic",
+  "description": "Entirely invented weekly observations; no real market values or empirical accuracy claims.",
+  "feature_table": {
+    "path": "feature_table.csv",
+    "sha256": "8844fb538ddf2160ee0c2b2f5dc70c911ce9fd9f5c415b6143bdde347aab0097"
+  }
+}

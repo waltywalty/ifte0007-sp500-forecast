@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "recorded_at": "2026-11-03T13:31:12.582404+00:00",
+  "kind": "representative_actual_work_record",
+  "instruction_summary": "Implement the approved IFTE0007 assessment repository and its copyright and attribution controls",
+  "scope": "Dedicated private GitHub repository; code-first export; unchanged frozen method; actual group review before merge.",
+  "assistant": "Codex",
+  "model_identifier": "not recorded",
+  "ai_agents": [
+    "repository_core",
+    "repository_evidence",
+    "repository_docs"
+  ],
+  "actual_tools": [
+    "exec_command",
+    "apply_patch",
+    "GitHub connector",
+    "cua_repl",
+    "web verification"
+  ],
+  "actual_actions": [
+    "Created isolated repository workspace",
+    "Created private GitHub repository after user completed sign-in",
+    "Extracted frozen LAD and chronological controls",
+    "Implemented evidence manifests, replay and safe packaging",
+    "Applied copyright and attribution policy",
+    "Installed hash-pinned dependencies in separate environment",
+    "Independently compared 1,050 saved predictions from 350 origins without publishing rows",
+    "Ran 78 tests in the locked local environment"
+  ],
+  "review_findings_and_corrections": [
+    "Historical-table endpoint/horizon checks tightened; explicit eligibility exclusions added.",
+    "Synthetic-as-empirical label mismatch rejected.",
+    "Final verifier changed from declared source hashes/values to rawCSV+receipt+protocol binding and RV20 reconstruction.",
+    "Package rights and manifest metadata sanitized; unlisted entries/unknown fields excluded; committed registry required.",
+    "No model factors, penalty, shrinkage, market or tuning changed."
+  ],
+  "qualifications": [
+    "This record is a representative summary of actual tool work, not a complete verbatim transcript.",
+    "No human sign-off, contribution, predictive promotion, source authority or copyright certification is inferred.",
+    "No private WRDS, protected crypto or credentials included."
+  ],
+  "verification_path": "evidence/verification/implementation_review.json"
+}

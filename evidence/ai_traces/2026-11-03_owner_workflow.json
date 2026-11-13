@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "recorded_at": "2026-11-03T17:26:55.339073+00:00",
+  "kind": "actual_user_scope_update",
+  "user_request": "For now we will not yet include my groupmember's connection and personal edits into the github, for now just prioritizing my connection towards it",
+  "active_repository_owner": "waltywalty",
+  "current_policy": "Owner-account workflow only; group GitHub connections, invitations, access, personal edits and CODEOWNERS assignments are deferred until later explicit instruction.",
+  "review": "PR remains unmerged until owner review and authorisation; no approval inferred.",
+  "preserved": [
+    "Historical evidence and earlier plans",
+    "Genuine coursework contributions and agreed four-person split",
+    "Required final-day human checks",
+    "Frozen method and code",
+    "Data and copyright boundaries"
+  ],
+  "actions_not_taken": [
+    "No collaborator invitations or access changes",
+    "No merge or automatic approval",
+    "No model, financial source or original operation change"
+  ]
+}
