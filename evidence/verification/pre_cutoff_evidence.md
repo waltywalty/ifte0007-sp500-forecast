@@ -42,4 +42,6 @@ These six requests timed out. No original provider payload came back in either b
 | VIXCLS | 2026-11-12 22:55:41.205668 | 2026-11-12 22:56:02.045166 | `9051385efc48e45dc0916675933dad96c09559a7fe6d07eec960ead8c65c2549` |
 | VXVCLS | 2026-11-12 22:55:41.205752 | 2026-11-12 22:56:02.045317 | `47d13bb85685c5892a195322f814dfe389361b398a6509c0534a4920acd96bd2` |
 
-The manual inputs hash-match the calculation saved at 23:10:34 UTC on 12 November. The FRED options pages displayed a 14:37 UTC update and AP published its cash-close report at 21:17 UTC. Those are publication metadata. Exact access times for the manual inputs remain incomplete. The report gives the source links and arithmetic. The original saved inputs and the full adopted record remain with the group.
+The manual inputs hash-match the calculation saved at 23:10:34 UTC on 12 November. The FRED options pages displayed a 14:37 UTC update and AP published its cash-close report at 21:17 UTC. Those are publication times.
+
+The group representative’s confirmation of approval was recorded at 00:53:02 UTC on 13 November, before the noon cutoff. The representative reports that the manual source and forecast checks took place around that confirmation. The record gives the confirmation time and an approximate time for the manual checks. The report provides the source links and arithmetic. The original saved inputs and adopted record remain with the group.

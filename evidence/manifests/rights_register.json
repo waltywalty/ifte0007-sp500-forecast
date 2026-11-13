@@ -1582,7 +1582,7 @@
     },
     {
       "path": "evidence/verification/pre_cutoff_evidence.md",
-      "sha256": "3bf5fbb432f91236938c1af26a69b337290e9eb1f18ba56d17ef5916d898ee3c",
+      "sha256": "69ce690ee8b66102a3ed0548897bdeb0e4cc193d626ac3067faa7a4ffb03e773",
       "status": "approved",
       "destinations": [
         "github",
@@ -1594,7 +1594,7 @@
       "material_treatment": "generated_or_authored_project_material",
       "licence_basis": "Owner-authorised public assessment documentation. Contains project-authored explanation, group-calculated aggregate results or invented data. Provider source observations, raw payloads and the actual forecast record are outside this scope.",
       "reviewer": "Codex scope review under the repository owner’s assessment publishing instructions",
-      "reviewed_at": "2026-11-13T04:50:39.848423+00:00",
+      "reviewed_at": "2026-11-13T05:34:59.489638+00:00",
       "required_notices": [
         "THIRD_PARTY_NOTICES.md",
         "docs/copyright_and_attribution.md"
