@@ -93,7 +93,11 @@
     },
     {
       "path": "evidence/ai_traces/README.md",
-      "sha256": "f272a5ed8ee914adaa519653e7093718ac11ed56d7084cf5ab4fcfc7b3a99c20"
+      "sha256": "646cc5df7e1316d0514e7f9463633318b2318ef5501e0d82df531b20abe510af"
+    },
+    {
+      "path": "evidence/ai_traces/final_forecast_run.md",
+      "sha256": "6d4567eb23f1d101b4dd07da6e3cf66bb1ba1e44ab138170d04166ccfda07ba2"
     },
     {
       "path": "evidence/forecasts/README.md",
@@ -241,7 +245,7 @@
     },
     {
       "path": "submission/README.md",
-      "sha256": "ffa7ba017bad0f29def0ae208a8eafb91faa9df827587aadc280e16bc147702d"
+      "sha256": "c79960702a99d36835f386b8f0bd5ea9b8c9d8df53b870a238dd9dd153079e07"
     },
     {
       "path": "tests/conftest.py",

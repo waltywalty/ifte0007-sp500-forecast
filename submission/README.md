@@ -11,6 +11,7 @@ For the 13 November partial upload, one group member uploads the Word or PDF rep
 | Dated choices and source receipts | [Pre-cutoff evidence](../evidence/verification/pre_cutoff_evidence.md) |
 | Benchmark results, sensitivity and uncertainty | [Benchmark evidence](../evidence/verification/benchmark_sensitivity.md) |
 | Agent instructions, use and checks | [AI use](../docs/ai_use.md), [AI traces](../evidence/ai_traces/README.md) and [verification](../evidence/verification/README.md) |
+| Final forecast run | [Redacted run extract and saved record identifiers](../evidence/ai_traces/final_forecast_run.md) |
 | Feature calculation | [Invented sample and instructions](../evidence/synthetic/feature_example/README.md) |
 | Forecast arithmetic | [Report values replay](#reproduce-the-displayed-forecast) |
 | Historical parity | [Saved implementation review](../evidence/verification/implementation_review.json) |
