@@ -57,7 +57,7 @@
     },
     {
       "path": "docs/input_contracts.md",
-      "sha256": "b02c57173cfbc6874f4c4c9dd27e281d5e3d5c0b4712e0000331f96fda102491"
+      "sha256": "dba24abd19e6497e5a446343a54ad4444f09d0fccff8ebd3df98c46f6f0de24d"
     },
     {
       "path": "docs/method_card.md",
@@ -77,7 +77,7 @@
     },
     {
       "path": "docs/skill_log.md",
-      "sha256": "9d18959ec854cb1d8259b75dfcf18888a459a3e8d1288e30f4ac48590fef924c"
+      "sha256": "9f2861e27d80e3aa8f0ec006d838d43a7f4c0a311fb35817a245d9cd705c82a3"
     },
     {
       "path": "docs/validation.md",
@@ -97,7 +97,7 @@
     },
     {
       "path": "evidence/forecasts/README.md",
-      "sha256": "b4d67e1178a0492637eb94c76da92acc549e91099ead1c05e90354f50ae70c14"
+      "sha256": "786fca93aa2da032cc4644af7fd5cd27d72ca7eab9383172002434519eb57ca3"
     },
     {
       "path": "evidence/manifests/data_register.json",
@@ -213,7 +213,7 @@
     },
     {
       "path": "submission/README.md",
-      "sha256": "5ff94af23fb38b2a147a6f7876b91040d6c3e16d24b15a783b14b114798cc861"
+      "sha256": "aee80d3b9294dc1606573958119c4c2a3657b542d119c7c3b90ee7aed8eec080"
     },
     {
       "path": "tests/conftest.py",

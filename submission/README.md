@@ -25,3 +25,18 @@ A labelled sample/synthetic route explains what it proves and what empirical wor
 - **Sources.** Provide the registered original inputs and receipts or record the decision on any separately documented source route. The [source guide](../docs/data_and_permissions.md) lists the fields needed to audit a manual check. Use the actual receipt and calculation times.
 - **Review.** The coursework brief calls for group approval. The current project verifier implements this through two distinct human attestations. Each reviewer records their identity, actual review time, the snapshot hash, checks on instrument, baseline, factor inputs and arithmetic, and explicit approval. Record the approvals after the calculation and before the cutoff. This control is separate from owner review of the GitHub PR.
 - **Release.** Keep the group identifiers, actual contributions and AI declaration with the assessment records. Confirm which files can go in the submission ZIP. Package one approved number and the exact evidence that supports it, then compare the report, slides and fresh offline replay against the same record.
+
+## Marker reproduction
+
+Use the submitted evidence ZIP as the assessment entry point. Extract it to a fresh directory and follow its README. The archive is designed for offline use without private GitHub access. The repository is the source for the fixed model and its synthetic end-to-end demonstration.
+
+| Check | Where to run it | What the check establishes |
+|---|---|---|
+| Submitted manual calculation | Use the standalone replay in the evidence ZIP with its disclosed derived inputs. | Reconstructs the point forecast, adjustment decomposition and coursework scoring example. |
+| Model and evaluation mechanics | Run the repository's [synthetic demonstration and reproduction commands](../README.md#install-and-run). | Exercises eligibility, fitting, chronological evaluation and verification on explicitly invented data. |
+| Registered FRED record | Run `verify-final` on a qualifying record and its required original response files. See [input contracts](../docs/input_contracts.md#final-record). | Checks the registered acquisition and review contract. The manually adopted record uses a separate provenance path. |
+| Historical refit | Supply a permitted saved feature snapshot using the [offline reproduction contract](../docs/input_contracts.md#reproduction-snapshot). | Regenerates the historical fit and comparisons where source permissions allow. The marker archive's disclosed derived values alone cannot reconstruct the historical training sample. |
+
+For the manually adopted forecast, use the archive's record to review the cutoff, actual calculation time, source provenance and approval status. Inspect exactly what the recorded source cross-check establishes. Arithmetic replay does not independently prove the original source delivery or human approval. If the archive states a verification limit, carry that qualification into the report.
+
+Compare the replayed two-decimal point and target with the submitted report and slides. The 80% band and downside scoring example are explanatory results. The official target close belongs in a separate outcome record once it has occurred. Keep the assessment archive and the original calculation unchanged when appending that outcome.

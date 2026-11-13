@@ -105,3 +105,7 @@ Each source receipt must identify the series, status `validated_acquisition`, HT
 The validator requires the registered HTTPS FRED CSV endpoint with exact series/date query bounds, no credentials, at most a 45-calendar-day window and at most 100,000 raw bytes. Every usable raw session must have been observed before its receipt. It parses original two-column CSV (`observation_date` or `DATE` plus the exact series name), rejects duplicate/out-of-range dates and invalid prices, and matches the required row/value to the calculation. Missing-value markers do not become fabricated observations. It independently rebuilds RV20 from the 21 required cash-session closes ending on 11 November; a saved RV20 scalar alone is insufficient.
 
 These are raw-file, receipt-declaration, arithmetic and timing checks. They cannot authenticate that a locally saved receipt was genuinely returned by the provider, authenticate humans, interpret licences or independently certify official-close authority. Source review and real human checks remain necessary. Success is not submission.
+
+## Manual assessment replay
+
+The marker archive's standalone replay uses disclosed derived inputs under a separate manual evidence contract. It validates the documented arithmetic. It does not fabricate original FRED response bytes, issue a forecast or replace `verify-final`. See the [marker reproduction guide](../submission/README.md#marker-reproduction) for what each route can substantiate.

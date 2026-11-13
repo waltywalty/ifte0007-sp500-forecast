@@ -27,3 +27,7 @@ Reused find-skills, GitHub operations and documentation governance after inspect
 ## Assessment evidence documentation
 
 Consulted the local find-skills workflow, GitHub Operations and the documentation-governance artifact-role guidance. Reused the existing source, validation, operations, AI-use and submission documents so each topic retains one primary reference. No additional installation was needed. The update presents reusable prompt instructions in original wording and excludes user-supplied inputs, raw traces and provisional financial values. The authorised operating code, approval controls and forecast records were outside this documentation update.
+
+## Marker reproduction handoff
+
+Repeated local skill discovery and reused GitHub Operations and documentation governance. Clarified the standalone marker replay and the separate registered source verifier within the existing submission and input-contract documentation. No new skill or dependency was needed. No original source files, approval records or financial values were transferred in this update.
