@@ -1,6 +1,6 @@
 # Assessment map
 
-This paraphrases the supplied brief rather than reproducing its teaching material. GitHub is user-added; the original evidence-ZIP requirement remains.
+This paraphrases the supplied brief rather than reproducing its teaching material. The latest 13 November arrangements use Moodle/Turnitin for the report and GitHub for code and supporting evidence.
 
 | Component | Marks | Evidence | Completion condition |
 |---|---:|---|---|
@@ -14,15 +14,11 @@ This paraphrases the supplied brief rather than reproducing its teaching materia
 
 Quality-related components total 50; accuracy supplies 50. No proven benchmark outperformance or p-value is presumed a standalone brief requirement. Internal promotion gates are research rules, not module rulings.
 
-## Final deliverables
+## Partial upload
 
-- Report PDF, maximum 2,400 words including narrative in tables and captions. The group aims for 2,350–2,399.
-- Evidence-only appendix at most four pages; no new analysis.
-- Slides PDF/PPTX, seven-minute presentation plus three-minute questions, all members.
-- Frozen demo and recorded fallback.
-- Evidence ZIP: permitted frozen inputs, code/notebook, agent instructions, representative tool evidence, versions, README and forecast metadata.
+- One Word or PDF report per group, maximum 2,400 words including narrative in tables and captions.
+- Clickable public GitHub link in the report and [code and supporting evidence](../submission/README.md) at that revision.
+- Presentation slides ready for Tuesday 17 November.
 - AI declaration and genuine contribution statement.
 
-Cutoff: **13 November 2026, 12:00 UTC/London**. Target: **20 November, S&P 500 official USD price-index close, 21:00 UTC**. Target submission 16:00 ahead of 17:00 deadline. Presentation 17 November. Confirm actual module upload/access route; nothing submits automatically.
-
-The first repository is code-first. A link, directory or checklist does not mean a deliverable is complete. See [submission](../submission/README.md).
+Cutoff: **13 November 2026, 12:00 UTC/London**. Target: **20 November, official S&P 500 USD price-index close, 21:00 UTC**.

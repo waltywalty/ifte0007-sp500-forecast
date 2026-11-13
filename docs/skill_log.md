@@ -37,3 +37,7 @@ Repeated local skill discovery and reused GitHub Operations and documentation go
 Used find-skills to inspect the installed documentation, validation and GitHub guidance. Reused Documents, Validate Data and GitHub Operations. The existing tools covered this work. Reviewed the public upstream links and recorded examples of guidance actually applied in [AI use](ai_use.md).
 
 The diagnostic review caught a timestamp-unit error before the reported coefficient bootstrap fits. The correction preserved the failed attempt and left the registered model specification unchanged. The assessment materials document this separately from the final forecast replay. Repository guidance includes original descriptions and links to upstream sources. No skill source files are needed to run the project.
+
+## Partial upload evidence handoff
+
+Reused find-skills, Validate Data, Documents and GitHub Operations guidance. Checked the public evidence boundary and updated the marker route for the partial upload. Reviewed the benchmark aggregates, receipt metadata and invented feature example as separate public artifacts. The model and its frozen inputs were outside this packaging change.

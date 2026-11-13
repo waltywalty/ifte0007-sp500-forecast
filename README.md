@@ -70,6 +70,6 @@ The [parity runner](research/runners/verify_parity.py) compares explicitly suppl
 
 For now, GitHub work is managed through the owner's account, `waltywalty`. Use `codex/*` branches and PRs for the owner's review; see [CONTRIBUTING](CONTRIBUTING.md). Group-member invitations, access, GitHub edits and ownership assignments are deferred until a later explicit instruction. Group handles are not required for this stage. The agreed four-person coursework allocation and genuine contribution records remain separate.
 
-GitHub supplements the brief's report/slides/evidence-ZIP submission. No command submits coursework, trades or makes a forecast binding. Final identity is the commit, manifest and ZIP hash. Post-cutoff work stays separate.
+The 13 November partial upload uses Moodle/Turnitin for the report and this public repository for code and supporting evidence. The [assessment handoff](submission/README.md) links the evidence for the marker. Presentation slides are for 17 November.
 
 No blanket open-source licence is granted. See [notices](THIRD_PARTY_NOTICES.md) and the copyright policy.
