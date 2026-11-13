@@ -27,7 +27,7 @@ CI uses synthetic inputs, no live financial or AI credentials. Full historical r
 
 ## Writing
 
-Target 2,200 report words below 2,400 including narrative tables/captions. Evidence-only appendix: at most four pages, no new analysis. Presentation: seven minutes plus three-minute questions, every member able to explain the calculation.
+Aim for 2,350–2,399 report words, including narrative tables and captions. The module limit is 2,400. Evidence-only appendix: at most four pages, no new analysis. Presentation: seven minutes plus three-minute questions, every member able to explain the calculation.
 
 Keep null/negative findings and uncertainty. No retuning from recent misses, fake historical commits, manufactured contributions or inferred human sign-offs.
 

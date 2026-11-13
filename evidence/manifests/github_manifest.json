@@ -25,11 +25,11 @@
     },
     {
       "path": "CONTRIBUTING.md",
-      "sha256": "e0abccc9c900488123baffc4f15a915f01745241e29d2bdccc175ab924c19dbe"
+      "sha256": "31dac51cd16910490cb68df0ca59d6a38af22e0cb6454c62d13a1892212d223b"
     },
     {
       "path": "README.md",
-      "sha256": "69280da3505d340687b87ee152351d8f423ec3fd3fbef8e8a3f266474753b917"
+      "sha256": "b33dcf79611b1a6f4cf94b48302c1accbb9522d2190538ac2014069cc5c47757"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -37,11 +37,11 @@
     },
     {
       "path": "docs/ai_use.md",
-      "sha256": "124b09942ab5c1f99a0f4ce1606193ba58c87c03cfef07e4688996151ef49608"
+      "sha256": "8f2a9bef9824b85bc556f3d96921edddbf5d83549bda339b6d218f483b17ba30"
     },
     {
       "path": "docs/assessment_map.md",
-      "sha256": "65f5815b0293998c132f9876b010ef08064b6f991bb125e29ede1ee0c993e2db"
+      "sha256": "c6fe0cae015ac629507a53386e74a816e63bc23e80024aed62984681b56146e3"
     },
     {
       "path": "docs/contributions.md",
@@ -53,7 +53,7 @@
     },
     {
       "path": "docs/data_and_permissions.md",
-      "sha256": "3999a363f88d6bb61cbeaad6db9c0593e42030c423f514fe87ae186b83ab2c5d"
+      "sha256": "559b3cce223b26692970bd2e5508d1d1058446b98fcfe706121a71eb98a8f663"
     },
     {
       "path": "docs/input_contracts.md",
@@ -65,7 +65,7 @@
     },
     {
       "path": "docs/operations.md",
-      "sha256": "5ec60240052fb84bfb96f7ff83ece1f7fa9336501e3333075ef174c62150a981"
+      "sha256": "a1df807faabbde7a732717caa2a01c10a170934b1b2cc80edb2595954537b889"
     },
     {
       "path": "docs/references.bib",
@@ -77,15 +77,15 @@
     },
     {
       "path": "docs/skill_log.md",
-      "sha256": "8e1de5af9b80d1c5fc42ad095281ade7e8f7330f8fabaa3250b60c1d3b533c73"
+      "sha256": "9d18959ec854cb1d8259b75dfcf18888a459a3e8d1288e30f4ac48590fef924c"
     },
     {
       "path": "docs/validation.md",
-      "sha256": "234eeb27d2065e42a65260dede5846d101e606b986012112e59c1d40b6a9f453"
+      "sha256": "e335ea7290f639cf4a212a05e5dce5f2bc53770a40be85982e8d7ea5cf1e3e93"
     },
     {
       "path": "evidence/ai_traces/2026-11-03_implementation.json",
-      "sha256": "f5448a30fa84c052bd23df70dba0d29e8ccb6f95afdd9c9aafe0c47cc674bc63"
+      "sha256": "823c16408dea26f6481003fa9e37cf2963adc1ffebcd56aa7f271684f25a21b0"
     },
     {
       "path": "evidence/ai_traces/2026-11-03_owner_workflow.json",
@@ -93,7 +93,7 @@
     },
     {
       "path": "evidence/ai_traces/README.md",
-      "sha256": "cf004fd5e8794a3e942f17cc43878e1e8e0317a27352ea3c28fe88b817693624"
+      "sha256": "f272a5ed8ee914adaa519653e7093718ac11ed56d7084cf5ab4fcfc7b3a99c20"
     },
     {
       "path": "evidence/forecasts/README.md",
@@ -213,7 +213,7 @@
     },
     {
       "path": "submission/README.md",
-      "sha256": "2138e5964b12bc07d955f57abf5f906c47bf609062e476b89b15071376f3b8ac"
+      "sha256": "5ff94af23fb38b2a147a6f7876b91040d6c3e16d24b15a783b14b114798cc861"
     },
     {
       "path": "tests/conftest.py",

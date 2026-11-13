@@ -23,3 +23,7 @@ Reused the reviewed find-skills/docs-governance workflow; inspected the new offl
 ## Owner-account workflow update — 3 November 2026
 
 Reused find-skills, GitHub operations and documentation governance after inspecting the active instructions, PR template and contribution guide. Existing skills were sufficient; no installation was needed. The user's later instruction defers group-member GitHub connections and edits, so current repository review is assigned to the owner. Historical evidence, genuine coursework contributions and final-day human checks remain separate. No collaborator, access or model change is part of this update.
+
+## Assessment evidence documentation
+
+Consulted the local find-skills workflow, GitHub Operations and the documentation-governance artifact-role guidance. Reused the existing source, validation, operations, AI-use and submission documents so each topic retains one primary reference. No additional installation was needed. The update presents reusable prompt instructions in original wording and excludes user-supplied inputs, raw traces and provisional financial values. The authorised operating code, approval controls and forecast records were outside this documentation update.

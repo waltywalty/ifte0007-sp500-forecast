@@ -2,6 +2,6 @@
 
 Use sanitised actual traces with request/time/tools/model where recorded, linked artifacts and decisions/checks. Prefer references/hashes to duplicated restricted payloads.
 
-Authority: user's approved implementation plan with copyright controls. Do not invent earlier prompts, model IDs or outcomes. Intent to call a tool is not evidence it ran.
+The [prompt design guide](../../docs/ai_use.md#prompt-design-and-evidence) describes reusable instructions. Trace entries describe actual work in summary form. Record a model identifier only when known and preserve the outcome of any tool call cited as evidence.
 
 No credentials/authentication links/private WRDS/protected holdouts/unrelated personal data. Group reviews final declaration.

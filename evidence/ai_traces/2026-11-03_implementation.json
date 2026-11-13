@@ -2,7 +2,7 @@
   "schema_version": 1,
   "recorded_at": "2026-11-03T13:31:12.582404+00:00",
   "kind": "representative_actual_work_record",
-  "user_request_excerpt": "PLEASE IMPLEMENT THIS PLAN: IFTE0007 repository implementation plan, including copyright and attribution controls",
+  "instruction_summary": "Implement the approved IFTE0007 assessment repository and its copyright and attribution controls",
   "scope": "Dedicated private GitHub repository; code-first export; unchanged frozen method; actual group review before merge.",
   "assistant": "Codex",
   "model_identifier": "not recorded",

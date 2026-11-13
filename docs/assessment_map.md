@@ -16,7 +16,7 @@ Quality-related components total 50; accuracy supplies 50. No proven benchmark o
 
 ## Final deliverables
 
-- Report PDF, target 2,200 words; maximum 2,400 including narrative tables/captions.
+- Report PDF, maximum 2,400 words including narrative in tables and captions. The group aims for 2,350–2,399.
 - Evidence-only appendix at most four pages; no new analysis.
 - Slides PDF/PPTX, seven-minute presentation plus three-minute questions, all members.
 - Frozen demo and recorded fallback.

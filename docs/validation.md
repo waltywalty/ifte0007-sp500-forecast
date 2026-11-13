@@ -97,3 +97,9 @@ Final verification reparses the supplied original FRED-format CSVs, binds their 
 The package emits sanitized control aliases at canonical repository-relative paths so copyright/source documentation links and manifest checks continue to work after extraction. These aliases contain only the approved subset and known schema fields; no pending/unlisted register entries or unknown original JSON fields are copied. Control hashes and payload/control/archive counts are recorded in package metadata.
 
 The repository checker distinguishes a standalone Git checkout from a plain extracted ZIP. In a ZIP it still checks manifests and local links, and explicitly skips tracked-file checks that require the original standalone Git history. A reported skip is not a passed Git-history verification; the source commit remains bound through the package metadata.
+
+## Interpreting the prediction band
+
+For each earlier eligible Friday forecast, compute the signed log error `log(actual / forecast)`. Let `q10` and `q90` be the empirical 10th and 90th percentiles of those errors. For point forecast `F`, the nominal 80% band is `[F × exp(q10), F × exp(q90)]`. Use the same frozen horizon and include a residual only after its label matures. The 95% version uses the 2.5th and 97.5th percentiles. Keep the calibrated residual count and use full precision before rounding the bounds.
+
+If shown in the report, give the point forecast and then the band in the body. Report realised coverage and mean width as a percentage of the origin's baseline for the corresponding retrospective cohort. A prediction band describes dispersion around an estimate. It is distinct from a paired interval for benchmark-score differences, a bootstrap interval for the slope and a hypothetical downside scenario. The single point is the forecast scored by the brief.

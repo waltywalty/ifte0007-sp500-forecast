@@ -20,3 +20,11 @@ The [rights register](../evidence/manifests/rights_register.json) records each a
 Distinguish synthetic demonstration, actual arithmetic replay, full empirical refit and genuine source delivery. The brief's labelled-sample route does not grant provider rights or make a sample equivalent to the full study. Explain omissions and reproduction limits.
 
 Use explicit allowlists. Reject pending/excluded/changed files. No credentials, cookies/tokens, private exports or unrelated histories. For unclear rights use links, original explanation or cleared alternatives; the group sends any clarification. Small/non-confidential/manual downloads are not automatically cleared.
+
+## Manual source cross-check
+
+A manual check can establish that a second source shows the same value. For an auditable record, retain the provider and URL, exact symbol and index variant, session date and close time with zone, displayed value, and when the reviewer accessed it. Identify the reviewer in the group's private evidence. A dated capture or export can strengthen that check where its use is permitted.
+
+For the registered final route, retain each original bounded FRED response and its receipt. Record the query, series identity, required observation, actual retrieval time, hash of the original bytes and comparison with the saved calculation. The cash response must support the baseline and the 21 consecutive session closes used for 20 returns. The two options responses must support the same eligible observation date. A separate source's matching quote does not supply those response bytes or demonstrate when FRED delivered them.
+
+If the registered source is unavailable, preserve the failure. A separately corroborated manual calculation can be retained with its own provenance and actual calculation time. Approval of an alternative source policy would require a documented group decision and compatibility with the assessment brief and final verifier. Retain the original chronology and source labels.

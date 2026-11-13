@@ -11,7 +11,7 @@ An assessed, reproducible implementation of our selected forecasting method. Tar
 3. [Research history](docs/research_history.md): exposure, choice and corrections.
 4. [Assessment map](docs/assessment_map.md): rubric and evidence.
 5. [Data permissions](docs/data_and_permissions.md) and [copyright policy](docs/copyright_and_attribution.md).
-6. [AI use](docs/ai_use.md), [contributions](docs/contributions.md) and [submission](submission/README.md).
+6. [Prompt design and AI use](docs/ai_use.md), [contributions](docs/contributions.md) and [final handoff](submission/README.md).
 
 ## Choice and limits
 
